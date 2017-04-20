@@ -1,0 +1,2636 @@
+{
+  "AB040": {
+    "desc": "Aeration Basin",
+    "def": "A basin, usually artificial, in which air is mixed with partially treated wastewater.   [Description] The water is treated with microorganisms to consume organic materials and convert suspended solids to settleable solids that are later collected by a settling pond and removed as sludge.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AT012": {
+    "desc": "Aerial Farm",
+    "def": "A collection of aerials that are collocated and serve a common purpose.   [Description] They may be organized either to function as a single larger virtual device (for example: a phased array) or function relatively independently of each other (for example: pointed in different directions and operating at different frequencies as at a satellite communication ground station).",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AT011": {
+    "desc": "Aerial",
+    "def": "An electronic communications device that is designed for emitting and/or sensing electromagnetic energy.   [Description] For example, used to transmit and/or receive electronic signals as on a radio tower or to capture electromagnetic energy as in radio astronomy. Field-deployable aerials are also included.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "GB230": {
+    "desc": "Aircraft Hangar",
+    "def": "A building for housing aircraft.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "GB050": {
+    "desc": "Aircraft Revetment",
+    "def": "A raised construction that protects a military asset (for example: aircraft or fighting vehicle), equipment (for example: radar station), and/or facility (for example: surface-to-air missile site) from hostile action.   [Description] Defensive revetments may be constructed of sandbags, concrete, compacted earth, or other material such as logs or metal. They offer protection against low flying splinters, shrapnel, and/or projectiles from bombs, rockets, grenades, small arms fire and other line-of-sight weapons. High-angle, low-velocity fragments will still impact the exposed site.",
+    "geom": "Line,Point",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AK164": {
+    "desc": "Amphitheatre",
+    "def": "A small tract of level ground serving as a stage that is surrounded by rising slopes (either naturally occurring or artificially constructed) supporting tiered seating (for example: benches).   [Description] Generally oval or circular in overall shape and typically used for live theatrical presentations, concerts, opera or dance productions, cinema, and/or other stage productions.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AK020": {
+    "desc": "Amusement Park Attraction",
+    "def": "A large structure located in an amusement park.",
+    "geom": "Line,Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AK030": {
+    "desc": "Amusement Park",
+    "def": "A predominantly man-made facility equipped with recreational devices.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "ZD045": {
+    "desc": "Annotated Location",
+    "def": "A location at which text pertaining to that location is annotated.   [Description] For example, a characteristic or activity pertaining to the location may be described.",
+    "geom": "Line,Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "GB015": {
+    "desc": "Apron",
+    "def": "A defined area, on a land aerodrome/heliport, intended to accommodate aircraft/helicopters for purposes of loading and unloading passengers, mail or cargo, and for fuelling, parking or maintenance.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "BH010": {
+    "desc": "Aqueduct",
+    "def": "An artificial waterway or conduit that is designed to transport water from a remote source, usually by gravity, to another location in order to provide a regular or controlled freshwater supply.   [Description] An aqueduct may be supported by a bridge in order to cross an obstacle, such as a ravine or valley. Aqueducts should be distinguished from ditches and navigable canals. Ditches may be similar in size to aqueducts, but are used for irrigation and/or drainage purposes. Navigable canals, which are typically larger than aqueducts, are constructed for or used to allow the passage of vessels inland.",
+    "geom": "Line,Area,Point",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "BH116": {
+    "desc": "Aquifer",
+    "def": "An underground layer of water-bearing permeable rock or unconsolidated materials (for example: gravel, sand, silt, or clay).   [Description] It may yield economically significant quantities of groundwater to wells and springs.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AQ151": {
+    "desc": "Arcade",
+    "def": "A covered pedestrian route composed of arches and pillars, usually open along one or both sides.",
+    "geom": "Line,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AL012": {
+    "desc": "Archeological Site",
+    "def": "A site where remains of past civilizations or human activity have been discovered.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "DA005": {
+    "desc": "Asphalt Lake",
+    "def": "A natural accumulation of liquid asphalt.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AL142": {
+    "desc": "Astronomical Observatory",
+    "def": "A building designed and equipped (for example: with a telescope) for making observations of celestial objects (including the earth in relation to them), of space, and of the universe as a whole.   [Description] Typically incorporates a dome-shaped covering that may be opened in order to expose instruments to the sky or closed to protect them from the weather.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AJ085": {
+    "desc": "Barn",
+    "def": "A roofed farm building designed for sheltering harvested crops (for example: hay), livestock (for example: cattle), and/or farm machinery (for example: tractors and ploughs).",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "BI045": {
+    "desc": "Basin Gate",
+    "def": "A gate that impounds water within a basin or chamber that is used by watercraft.   [Description] For example, gates used at locks or dry docks.",
+    "geom": "Line,Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AG050": {
+    "desc": "Billboard",
+    "def": "A large outdoor board for advertisements.   [Description] May be attached to another structure or self-supporting. Usually elevated so as to be seen for a significant distance.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AC010": {
+    "desc": "Blast-furnace",
+    "def": "A smelting furnace in which a blast of air is used, especially one for iron-smelting using a compressed hot air blast.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "BH015": {
+    "desc": "Bog",
+    "def": "A permanently wet area of land consisting of incompletely decayed organic material and mainly stagnant fresh water.   [Description] It is generally too soft to bear the weight of any heavy body. A subtype of the more generalized wetland.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AA045": {
+    "desc": "Borehole",
+    "def": "An excavation drilled into the ground for purposes other than the extraction of potable water, oil, gas or brine.   [Description] For example, drilled to support the underground testing of munitions, for coring or sampling of bedrock or ice for scientific purposes, or drilled for the injection of waste material.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "EA031": {
+    "desc": "Botanic Garden",
+    "def": "A culturally designated tract where plants are displayed.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "ZB030": {
+    "desc": "Boundary Monument",
+    "def": "A marker identifying the location of a surveyed boundary line.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AQ040": {
+    "desc": "Bridge",
+    "def": "A structure that connects two locations and provides for the passage of a transportation route (for example: a road or a railway) over a terrain obstacle (for example: a waterbody, a gully, and/or a road).   [Description] A bridge consists of a set of two abutments and/or zero or more bridge piers joined by bridge spans. A bridge may serve, for example, as an overpass or a viaduct. In the context of a bridge, the scope of the term transportation route includes the transportation of liquids or gases by means of either pipelines or aqueducts.",
+    "geom": "Line,Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AQ056": {
+    "desc": "Bridge Pier",
+    "def": "A pillar or abutment that supports a bridge span.",
+    "geom": "Line,Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AQ045": {
+    "desc": "Bridge Span",
+    "def": "A component of the deck of a bridge spanning successive bridge piers.",
+    "geom": "Line,Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AQ050": {
+    "desc": "Bridge Superstructure",
+    "def": "A superstructure of a bridge, above the lowest deck, not including pylons or towers.",
+    "geom": "Line,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AQ055": {
+    "desc": "Bridge Tower",
+    "def": "A tower and/or pylon from which the deck of a bridge is suspended.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "EB070": {
+    "desc": "Brush",
+    "def": "A tract covered mainly by short, uncultured, woody plants that have been stunted by an environmental limitation (for example: low rainfall or nutrient-poor soil).   [Description] Typically, coverage can range from sparse to differentiated (where the vegetation is close but not tangled together). The woody plants include bushes, scrub, shrubs and/or low stunted trees. The predominant height of the vegetation is usually less than 3 metres.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AF021": {
+    "desc": "Bucket Elevator",
+    "def": "",
+    "geom": "Line,Point",
+    "src": "TDS40"
+  },
+  "AL013": {
+    "desc": "Building",
+    "def": "A free-standing self-supporting construction that is roofed, usually walled, and is intended for human occupancy (for example: a place of work or recreation) and/or habitation.   [Description] For example, a dormitory, a bank, and a restaurant.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AL018": {
+    "desc": "Building Superstructure",
+    "def": "A supplemental portion of a building which rises from the roof but is not considered to be a portion of the roof.",
+    "geom": "Line,Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AL020": {
+    "desc": "Built-up Area",
+    "def": "A tract containing a concentration of buildings and/or other structures.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AT041": {
+    "desc": "Cableway",
+    "def": "A suspended transportation system consisting of one or more load cables, supporting pylons, carrier units (for example: cars or buckets intended to transport people, material, and/or equipment) and usually stations.   [Description] A cableway consists of carrier units attached to load cables which are strung between pylons and/or stations. For example, a ski-lift.",
+    "geom": "Line",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AT005": {
+    "desc": "Cable",
+    "def": "A single continuous rope-like bundle consisting of multiple strands.   [Description] The strands may be individually insulated and/or protected and the cable as a whole sheathed. Cables may be used for load bearing (for example, supporting or suspending equipment and/or structures), transmitting electrical power, and/or communicating signals (for example, by electrical or optical means).",
+    "geom": "Line",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AL025": {
+    "desc": "Cairn",
+    "def": "A heap of stones piled up as a memorial or a landmark.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AI030": {
+    "desc": "Camp",
+    "def": "An encampment (excluding recreational camping) where tents and/or other easily moveable structures (for example: yurts) serve as full-time, temporary, or seasonal residences.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AK060": {
+    "desc": "Camp-site",
+    "def": "A designated place for recreational camping.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "BH020": {
+    "desc": "Canal",
+    "def": "An artificial waterway with no flow, or a controlled flow, that is constructed for or used to allow the passage of vessels inland.   [Description] Navigable canals should be distinguished from ditches and aqueducts. Ditches are used for irrigation or drainage purposes. Aqueducts are artificial waterways that are designed to transport water from one location to another in order to achieve a regular and controlled freshwater supply.",
+    "geom": "Line,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "EC010": {
+    "desc": "Cane",
+    "def": "A naturally occurring tract covered mainly by tall woody grasses.   [Description] For example, bamboo (Bambuseae) and wild cane (Saccharum or Gynerium species).",
+    "geom": "Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "SU004": {
+    "desc": "Cantonment Area",
+    "def": "An area containing military quarters.   [Description] Typically consisting of the residential sections of a military installation, where tactical training may be limited due to other activities that would endanger and disrupt personnel and their dependents.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AI020": {
+    "desc": "Caravan Park",
+    "def": "A prepared site, typically including facilities, used for holiday accommodations where caravans and/or motor homes are parked.   [Description] Caravans are travel trailers towed behind vehicles while motor homes are self-contained vehicles used for both travel and accommodations. Facilities may include utility connections (for example: water, power, or gas), convenience store(s), showers, laundry facilities, and swimming pools.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AP010": {
+    "desc": "Cart Track",
+    "def": "An unimproved road.   [Description] The surface is usually rough (for example: rutted) and minimally prepared (for example: packed earth or thinly covered with gravel).",
+    "geom": "Line",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AL376": {
+    "desc": "Castle Complex",
+    "def": "A fortified complex of buildings and related structures that consists principally of a central keep with surrounding thick walls, battlements, and often the presence of a moat, and is commonly of some historical significance.   [Description] A castle complex may be quite extensive, including multiple distinct buildings of diverse function. Historically castle complexes were designed and constructed as defensive structures situated so as to dominate the surrounding countryside. With advancing technology, especially artillery, they have become obsolete for military defensive purposes and are now valued primarily for their historical significance. Examples of castle complexes include Prague and Windsor Castles.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AL375": {
+    "desc": "Castle",
+    "def": "A single large fortified building that has thick walls, battlements, and often the presence of a moat, and is commonly of some historical significance.   [Description] Historically castles were designed and constructed as defensive structures situated so as to dominate the surrounding countryside. With advancing technology, especially artillery, they have become obsolete for military defensive purposes and are now valued primarily for their historical significance. In more recent times elaborate country houses were built incorporating many design elements of a castle but which were not fully capable of being used as defensive structures. Examples of castles of both types include Doue-la-Fontaine and Neuschwanstein.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AC020": {
+    "desc": "Catalytic Cracker",
+    "def": "A structure including a distillation column, a reactor, and a regenerator, in which the separation of petroleum is carried out in the presence of a catalyst.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AQ063": {
+    "desc": "Causeway Structure",
+    "def": "A solid raised way across a terrain obstacle (for example: a wetland or a body of shallow water) that is intended to support a transportation route (for example: a road or a railway).   [Description] The causeway structure is often constructed from local fill supplemented by other materials (for example: rocks, boulders or gravel) and consists of a solid linear structure in the configuration of an embankment. Causeway structures are built just high enough to insure that the transportation route will remain passable during periods of flooding, tides and seasonal rainfall. Culverts may occur along the length of the causeway structure and individual sections of the causeway structure may be interrupted by bridges.",
+    "geom": "Line,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "DB029": {
+    "desc": "Cave Mouth",
+    "def": "The entrance to an interconnected series of naturally occurring subterranean chambers.   [Description] Typically located in limestone, and often open to the Earths surface either vertically or horizontally. Alterations may have been made to the cave mouth.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AL030": {
+    "desc": "Cemetery",
+    "def": "A site and associated structures devoted to the burial of the dead.   [Description] Examples of structures that may be found in a cemetery include graves, grave markers, tombs, funerary urns, and columbaria.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AH070": {
+    "desc": "Checkpoint",
+    "def": "A location to control passage and/or to register, declare and/or inspect goods, vehicles and/or people.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "BI010": {
+    "desc": "Cistern",
+    "def": "A man-made container used for the collection and/or storage of water.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "EC040": {
+    "desc": "Cleared Way",
+    "def": "A man-made cleared strip through a vegetated region.   [Description] May be designed to: provide access for a road, railroad, pipeline, power transmission line, or electrical signal line; demarcate a boundary; obtain survey line-of-sight; or to impede the progress of forest fires (a firebreak).",
+    "geom": "Line,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "FA210": {
+    "desc": "Conservation Area",
+    "def": "An area of land and/or sea especially dedicated to the protection and maintenance of biological diversity, and of natural and associated cultural resources, and managed through legal or other effective means.   [Description] As determined, for example, by the International Union for Conservation of Nature and Natural Resources (IUCN).",
+    "geom": "Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "FA012": {
+    "desc": "Contaminated Region",
+    "def": "A region whose prevailing natural conditions have been degraded through contamination by harmful or objectionable substances.   [Description] The contamination may be either naturally occurring or the result of human activity. For example, polluted by sewage or toxic chemicals, obscured by smoke or ash from volcanic eruptions, or contaminated by exposure to Chemical, Biological, Radiological, and/or Nuclear (CBRN) agents.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "ZB035": {
+    "desc": "Control Point",
+    "def": "",
+    "geom": "Point",
+    "src": "TDS40"
+  },
+  "AQ060": {
+    "desc": "Control Tower",
+    "def": "A structure that houses personnel and equipment used to control the flow of traffic within a specified range of an installation.   [Description] Examples of installations that use control towers are aerodromes, railways, and maritime routes.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AF020": {
+    "desc": "Conveyor",
+    "def": "A device for conveying articles or materials from one location to another during manufacture or processing using a continuously moving mechanism.   [Description] Usually long, thin, and rectangular, and located above ground surface. It can be situated horizontally, vertically, at a slope between flat and upright, or in a combination of these postures. In general, conveyor systems consist of the bucket, screw (auger), apron, or flight conveyors to load silos or bunkers. Other systems use a series of rollers to move a range of products from relatively lightweight luggage and cargo packages at transportation terminals, up to heavyweight plate steel and ingots in industrial mills. The most common system is the belt conveyor. Some systems use a combination of these designs such as shallow buckets (or flat plates) attached to a belt conveyor. Conveyors can be used for long distance transportation (for example, kilometres) of materials. Long distance conveyor systems are usually constructed in segments to accommodate changes in direction where needed.",
+    "geom": "Line,Point",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AD055": {
+    "desc": "Cooling Facility",
+    "def": "A facility for the removal of thermal energy (for example: by generating and circulating chilled water) for cooling purposes.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AF030": {
+    "desc": "Cooling Tower",
+    "def": "A tall tower for cooling hot water from an industrial process before reuse.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AL175": {
+    "desc": "Courtyard",
+    "def": "An open area that is open to the sky and surrounded by walls or buildings forming the precincts of a larger facility (for example: an extended house, a castle, or a homestead), often in the form of an area that is enclosed by a single building.   [Description] Historically, these areas in inns and public buildings were often the primary meeting places for some purposes, leading to the other meanings of the term court.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AF040": {
+    "desc": "Crane",
+    "def": "Equipment for lifting, shifting, and lowering objects or materials by means of a swinging boom or with the lifting apparatus supported on an overhead track.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "BJ031": {
+    "desc": "Crevasse",
+    "def": "A deep crack or fissure in a glacier that results from differential movement of ice.",
+    "geom": "Line,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "DB061": {
+    "desc": "Crevice",
+    "def": "A narrow opening or fissure produced by a crack in the land, especially in rock.   [Description] May also describe a deep vertical opening in the terrain that appears after an earthquake.",
+    "geom": "Line,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "EA010": {
+    "desc": "Crop Land",
+    "def": "An area that has been tilled for the planting of crops.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AQ062": {
+    "desc": "Crossing",
+    "def": "A location where land transportation routes intersect or cross at the same vertical level.   [Description] For example, a railway crossing, a road intersection, and a ford.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "ZD030": {
+    "desc": "Cultural Context Location",
+    "def": "A location that normally does not appear as a specific, characterized object but that represents an area where a specific cultural factor (for example: religion, ethnicity, language, or tribal/clan affiliation) predominates.",
+    "geom": "Point,Area",
+    "src": "TDS40,GGDM30"
+  },
+  "AQ065": {
+    "desc": "Culvert",
+    "def": "An enclosed channel for carrying a watercourse (for example: a stream, a sewer, or a drain) under a route (for example: a road, a railway, or an embankment).   [Description] Usually the construction of the route is unaffected.",
+    "geom": "Line,Point",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "DB070": {
+    "desc": "Cut",
+    "def": "An excavation in the terrain to provide passage for a land or water transportation route (for example: a road, a railway, and/or a canal).",
+    "geom": "Line",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "DB071": {
+    "desc": "Cut Line",
+    "def": "The demarcation line between a cut and the surrounding land surface.",
+    "geom": "Line",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "BI020": {
+    "desc": "Dam",
+    "def": "An artificial barrier constructed across an inland watercourse to control its flow.   [Description] The watercourse usually increases its depth upstream, thus allowing upstream passage of vessels of increased draft. The pool formed in the watercourse may serve as a source of water or enable the generation of hydroelectric power. Controlling the depth of the pool and the flow of the watercourse may enable the prevention of flooding downstream.",
+    "geom": "Line,Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "ZI031": {
+    "desc": "Dataset",
+    "def": "A resource that is a set of instances of one or more modelling entities selected according to a single rationale (for example: a common production or publication process).   [Description] For example, a set of modelling entities whose instances together constitute a water resources map.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "DB080": {
+    "desc": "Depression",
+    "def": "A sunken place in the terrain that is completely surrounded by higher terrain.",
+    "geom": "Area,Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "EE030": {
+    "desc": "Desert",
+    "def": "An arid and treeless uncultivated sparsely populated tract of land.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AT010": {
+    "desc": "Dish Aerial",
+    "def": "An electronic communications device consisting of a concave-shaped aerial that is designed for emitting and/or sensing electromagnetic energy.   [Description] Examples: dish aerials may be used to transmit and/or receive electronic signals at a satellite station, or to capture electromagnetic energy for radio astronomy.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AB000": {
+    "desc": "Disposal Site",
+    "def": "A prepared or reserved site on land for the collection and/or deposition of waste, refuse or discarded material.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "BH030": {
+    "desc": "Ditch",
+    "def": "An artificial waterway with no flow, or a controlled flow, usually unlined, used for draining or irrigating land.   [Description] Ditches may vary in construction to include raised walls or banks extending above the surrounding terrain surface, or containment within a tunnel passing through a hill.",
+    "geom": "Line,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AL060": {
+    "desc": "Dragon's Teeth",
+    "def": "A site that is covered by a system of upward-pointing obstacles laid in the ground to slow or stop the movement of vehicles.",
+    "geom": "Line,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AK070": {
+    "desc": "Drive-in Theatre",
+    "def": "A place where motion pictures are shown while viewers remain in their vehicles.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "BB090": {
+    "desc": "Dry Dock",
+    "def": "An artificial basin fitted with a gate or caisson into which vessels can be floated and the water pumped out to expose the bottom of the vessel.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AD010": {
+    "desc": "Electric Power Station",
+    "def": "A facility including one or more buildings and equipment used for electric power generation.   [Description] An electric power station consists of one or more power generating units, each consisting of the full set of equipment required to generate power and capable of independent operation. The power generating units are located on one or more contiguous or adjacent properties, are under the common control of the same entity and supply power through a common connection to the electric grid. Electric power stations most commonly are used to generate electricity for long distance transmission.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "CA010": {
+    "desc": "Elevation Contour",
+    "def": "A line connecting points having the same elevation value relative to a vertical datum.",
+    "geom": "Line",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "DB090": {
+    "desc": "Embankment",
+    "def": "A man-made raised long mound of earth or other material.",
+    "geom": "Line,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AH025": {
+    "desc": "Engineered Earthwork",
+    "def": "An excavation and/or embankment created by remoulding the natural configuration of the terrain for the purpose of enhancing the defence of a site from armed attack.   [Description] The earthwork may include ancillary elements (for example: a palisade) or reinforcements (for example: a concrete facing).",
+    "geom": "Line,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AF060": {
+    "desc": "Engine Test Cell",
+    "def": "A structure wherein aircraft or rocket engines are tested.   [Description] The most common test cells are used for testing the performance characteristics of jet engines and are typically located at military aerodromes or aerospace research and development facilities. Test cells for liquid-fuelled rocket booster engines are unique, massive structures (for example: the test cell located at Stennis Space Flight Center in the U.S.).",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "DB100": {
+    "desc": "Esker",
+    "def": "A long, narrow ridge of sand and gravel deposited by a glacial stream.",
+    "geom": "Line",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AF050": {
+    "desc": "Excavating Machine",
+    "def": "A mechanical device for removing materials from the ground.   [Description] For example, a dredger, a powershovel, and a dragline.",
+    "geom": "Line,Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AA010": {
+    "desc": "Extraction Mine",
+    "def": "An excavation made in the terrain for the purpose of extracting and/or exploiting natural resources.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AL010": {
+    "desc": "Facility",
+    "def": "An area that has been developed to perform a specific principal function, consisting of one or more vertical constructions (for example: structures or buildings), horizontal constructions (for example: pavements, roads, rail tracks, or bridges), and/or supporting utilities (for example: power lines, water supply, or sewerage), plus the underlying land.   [Description] For example, an industrial plant consisting of building(s), shipping dock(s), storage area(s), power transformer(s), heating and/or cooling equipment, vehicle parking, roads, railroad tracks, and perimeter fences and gates.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AK090": {
+    "desc": "Fairground",
+    "def": "An area where permanent facilities exist to hold outdoor fairs, circuses or exhibitions.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AL070": {
+    "desc": "Fence",
+    "def": "A man-made barrier of relatively light structure used as an enclosure or boundary.   [Description] Similar structures that are constructed of heavy materials (for example: stone, rock or masonry) are classified as walls.",
+    "geom": "Line",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AQ070": {
+    "desc": "Ferry Crossing",
+    "def": "A route where a ferry crosses from one shore to another.",
+    "geom": "Line,Point",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AQ080": {
+    "desc": "Ferry Station",
+    "def": "A location where a ferry takes on or discharges its load.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AL017": {
+    "desc": "Fire Hydrant",
+    "def": "An apparatus for drawing water directly from a main, especially alongside a street or road, consisting of a pipe with one or more nozzles or spouts, to which a hose of a fire-engine may be attached.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "FA015": {
+    "desc": "Firing Range",
+    "def": "A site designated for the purpose of discharging firearms or detonating munitions.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "BH051": {
+    "desc": "Fish Farm Facility",
+    "def": "A facility involved in the breeding (hatching and associated activities) and cultivation (raising for release or harvesting) of fish in tanks or landlocked enclosures.   [Description] Fish species raised on fish farms include, for example, salmon, catfish, tilapia, cod, carp, and trout.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "BI060": {
+    "desc": "Fish Ladder",
+    "def": "A series of ascending pools constructed to enable fish to swim upstream over (or around) a dam.",
+    "geom": "Line",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "BB110": {
+    "desc": "Fish Weir",
+    "def": "A fence of stakes or wall of stones set in a river or along the shore to direct fish towards fish traps or nets.   [Description] The weir is shaped so as to encourage fish to naturally congregate, usually based on river or tidal flow. Although generally consisting of linear segments on rivers, in shore areas one or more components may be curved so as to form an enclosure with a narrow entrance. When constructed of stones the thickness of the wall constitutes a permanent hazard to maritime navigation.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AL073": {
+    "desc": "Flagpole",
+    "def": "A permanently affixed or emplaced staff or pole on which a flag is raised.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AF070": {
+    "desc": "Flare Pipe",
+    "def": "An open-ended pipe at which waste gases are burned.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "BB199": {
+    "desc": "Floating Dry Dock",
+    "def": "A form of dry dock consisting of a floating structure of one or more sections which can be partly submerged by controlled flooding to receive a vessel, then raised by pumping out the water so that the vessels bottom can be exposed.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "BI044": {
+    "desc": "Flood Control Structure",
+    "def": "An artificial structure or gate that is utilized as a defence against flooding or storm surges.   [Description] Consideration should be given to using the more specific Dam or Embankment features where appropriate in lieu of Flood Control Structure.",
+    "geom": "Line,Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "BH070": {
+    "desc": "Ford",
+    "def": "A shallow place in a body of water used as a crossing.",
+    "geom": "Line,Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "EC015": {
+    "desc": "Forest",
+    "def": "A tract of land primarily covered by trees and undergrowth.   [Description] The area is sometimes mixed with pasture.",
+    "geom": "Line,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "EC060": {
+    "desc": "Forest Clearing",
+    "def": "A site in a forest or wood(s) that has been cleared, often for slash and burn agriculture and/or as a result of clear-cutting logging.   [Description] May also occur from natural causes such as a forest fire.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AH055": {
+    "desc": "Fortified Building",
+    "def": "A building that is specifically designed or reinforced to provide for defence from armed attack.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "BH075": {
+    "desc": "Fountain",
+    "def": "A monumental and/or ornamental structure containing moving water, often including jets, falls, or other decorative features.   [Description] The structure is often of a civic nature; the water is typically recirculated.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AM075": {
+    "desc": "Fuel Storage Facility",
+    "def": "A facility for the storage of fuel (for example: jet fuel, gasoline, or diesel oil).   [Description] The fuel is typically stored in large tanks that may be partially or wholly buried and is accompanied by metering and dispensing equipment. Facilities may range in size from a small stockpile of drums (sometimes termed a fuel dump) to a large perimeter-controlled site with multiple permanent surface tanks, in-ground pipelines and associated equipment (sometimes termed a fuel depot).",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AL080": {
+    "desc": "Gantry",
+    "def": "A permanent raised structure used to support equipment (for example: cranes, signal lights, or signs) while spanning over or around an object (for example: over a road or railroad, or around a ship hull or rocket).   [Description] A gantry may be moveable (for example: a rocket gantry may be repositioned away from the launch pad when pre-launch preparations are complete). A scaffold is a structure that may be similar in appearance but is assembled only for temporary use (for example: during external repair of a building).",
+    "geom": "Line,Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AP040": {
+    "desc": "Gate",
+    "def": "A barrier erected on a transportation route (for example: a road, a railway, a tunnel, or a bridge) that controls passage (may be opened and closed).",
+    "geom": "Line,Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "BI070": {
+    "desc": "Gauging Station",
+    "def": "A device that monitors river flow and/or depth, and any associated support structures.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "DB110": {
+    "desc": "Geologic Fault",
+    "def": "A fracture or zone of fractures in a rock formation, marked by the relative displacement on either side of the plane of the fracture.   [Description] The intersection of a geologic fault with the ground surface is termed the fault trace and is commonly plotted on maps to represent a fault. Since geologic faults do not usually consist of a single, clean fracture, the term fault zone (or distributed fault) is often used when referring to the zone of complex deformation and numerous small fractures that is associated with the fault plane.",
+    "geom": "Line",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "DB115": {
+    "desc": "Geothermal Outlet",
+    "def": "A terrain surface feature controlled by or derived from the heat of the Earths interior.   [Description] For example, a hot spring.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "BJ030": {
+    "desc": "Glacier",
+    "def": "A large mass or river of ice formed by accumulation and compaction of snow on higher ground that is moving slowly down a slope or valley from above the snowline.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AK100": {
+    "desc": "Golf Course",
+    "def": "A tract of land on which golf is played.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AK101": {
+    "desc": "Golf Driving Range",
+    "def": "A parcel of land used for practicing golf shots.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AM030": {
+    "desc": "Grain Elevator",
+    "def": "A tall structure, equipped for loading, unloading, processing, and/or storing grain.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AM020": {
+    "desc": "Grain Storage Structure",
+    "def": "An enclosed container, used for storing grain or fodder.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AK110": {
+    "desc": "Grandstand",
+    "def": "A structure for special viewing of outdoor events, usually roofed, that has tiers of seats or standing room for spectators.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "EB010": {
+    "desc": "Grassland",
+    "def": "A naturally occurring tract covered mainly by grasses that have little or no woody tissue.   [Description] Grasslands regionally may be known as prairies, pastures, meadows, steppes, pampas, llanos, or savannahs.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AJ110": {
+    "desc": "Greenhouse",
+    "def": "A structure, sometimes recognized as a building, constructed primarily of transparent material (for example: glass or plastic), in which temperature and humidity can be controlled for the cultivation and/or protection of plants.   [Description] Greenhouses can range in size from very large conservatories such as the Palm House at Kew Gardens in England to row covers. Many of the large public greenhouse conservatories are used for growing tender and rare plants. Commercial greenhouses are often state-of-the-art production facilities for vegetables or flowers. Row covers and similar structures are usually made of a lightweight transparent material placed directly above rows of crops on a supporting framework to form a low tunnel. The transparent materials on these structures may be temporary being removed once the crop is well-established. At times, the entire structure may be removed.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "BB005": {
+    "desc": "Harbour",
+    "def": "A natural or artificial improved body of water providing protection for vessels and generally anchorage and docking facilities.   [Description] A harbour consists of both its port and its waters.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "GB250": {
+    "desc": "Hardened Aircraft Shelter",
+    "def": "A hardened structure built above or partially above ground that encloses aircraft to provide protection from enemy attack.   [Description] The shelter is closed by blast resistant doors and is generally limited in size, only accommodating one or two relatively smaller (for example: fighter) aircraft. Those built to NATO specifications are designed to withstand a direct hit by a 226 kilogram bomb.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AD050": {
+    "desc": "Heating Facility",
+    "def": "A facility for the generation of thermal energy for heating purposes.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "EA020": {
+    "desc": "Hedgerow",
+    "def": "A continuous growth of shrubs planted as a fence, a boundary, and/or a windbreak.",
+    "geom": "Line",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "GB030": {
+    "desc": "Helipad",
+    "def": "A designated area, usually with a prepared surface, used for the take-off, landing, or parking of helicopters.   [Description] This prepared surface could either be located on land or on a platform over water. It may or may not be associated with an aerodrome. For example: a hospital helipad, and an offshore rig helipad.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "GB035": {
+    "desc": "Heliport",
+    "def": "An aerodrome intended to be used for the arrival, landing, takeoff or departure of vertical takeoff and landing aircraft/helicopters.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AJ030": {
+    "desc": "Holding Pen",
+    "def": "An enclosed tract on which livestock are temporarily kept.   [Description] For example, a sheepfold, a holding paddock, a livestock pen, a feedlot, and/or a stock yard. The enclosure may be by, for example, a fence or a wall.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AF080": {
+    "desc": "Hopper",
+    "def": "A top-loaded funnel-shaped structure for temporary holding of loose material which will be dispensed from its bottom.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "EA055": {
+    "desc": "Hop Field",
+    "def": "A tract covered by the systematic planting of hop vines.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "BD181": {
+    "desc": "Hulk",
+    "def": "A vessel, either stranded aground or permanently moored, that is no longer seaworthy due to an inoperable propulsion plant or compromised vessel integrity.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "BH077": {
+    "desc": "Hummock",
+    "def": "A place of higher elevation within a wetland (for example: a swamp, a bog, or a marsh).",
+    "geom": "Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AL099": {
+    "desc": "Hut",
+    "def": "A small, simple free-standing (detached) self-contained residence usually having only a single multi-function room.   [Description] May be intended only as temporary (for example: by displaced persons) or seasonal (for example: during seasonal livestock movement) residence. May be crude (for example: quickly built from locally-available natural materials) or relatively modern in construction and austerely furnished (for example: a Norwegian hytte).",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AA052": {
+    "desc": "Hydrocarbons Field",
+    "def": "An area where the presence of recoverable petroleum, oil, and/or natural gas has been identified.   [Description] The field can exist regardless of current exploitation activities.",
+    "geom": "Area,Point",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AC040": {
+    "desc": "Hydrocarbon Products Facility",
+    "def": "A facility involved in the production or distribution of petroleum, oil and/or natural gas products.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "BJ099": {
+    "desc": "Ice-cap",
+    "def": "A permanent layer of ice covering a tract of land (especially a polar region) or the top of a mountain.   [Description] Usually includes a surface layer of snow.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "BJ040": {
+    "desc": "Ice Cliff",
+    "def": "The vertical face of a glacier or ice shelf.",
+    "geom": "Line",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "BJ060": {
+    "desc": "Ice Peak",
+    "def": "A rocky peak projecting above a surrounding ice field that may be perpetually covered with ice.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AQ075": {
+    "desc": "Ice Route",
+    "def": "A route over a frozen watercourse.   [Description] Usually marked and intended to support substantial vehicle traffic. Often designed as an alternate to a seasonally-closed ferry crossing.",
+    "geom": "Line",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "BJ065": {
+    "desc": "Ice Shelf",
+    "def": "A floating ice sheet of considerable thickness that is normally attached to the land along its landward edge.   [Description] Ice shelves are the seaward extension of land glaciers. Limited areas of the ice shelf may be aground where the glacier first enters the water and possibly in other places offshore. Ice shelves are usually of great horizontal extent and have a level or gently undulating surface. The seaward edge of an ice shelf is termed an ice cliff.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AL270": {
+    "desc": "Industrial Farm",
+    "def": "An estate or large farm operating on the plantation economy model in which the farm operates as a single economic unit whose operations are based on agricultural mass production of a few staple crops (for example: cotton, tobacco, sugar cane, bananas, and/or rubber) that are typically not indigenous to the region.   [Description] Plantation economies are often dependent on distant (for example: export) markets as the crops are harvested in large quantities. Historically, industrial farms were often found in former European colonies and termed plantations.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AC060": {
+    "desc": "Industrial Furnace",
+    "def": "A structure used in material processing that employs heating to harden (for example: to fire brick or ceramic), pyrolyse (for example: convert coal to coke, or limestone to lime), burn (for example: to incinerate waste), or dry (for example: lumber).   [Description] May assume many forms, for example a domed beehive kiln or a long linear coke oven battery.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "BH082": {
+    "desc": "Inland Waterbody",
+    "def": "A body of water that is entirely surrounded by land.   [Description] It may occur in a natural terrain depression in which water collects, or may be impounded by a dam, or formed by its bed being hollowed out of the soil, or formed by embanking and/or damming up a natural hollow (for example: by a beaver dam). Inland waterbodies have many uses such as: a source of water for irrigation, industrial processes, human consumption, and recreation. Impounded inland waterbodies may also be used for flood control.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AL011": {
+    "desc": "Installation",
+    "def": "A grouping of facilities, located in the same vicinity, which support particular functions.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AL201": {
+    "desc": "Interest Site",
+    "def": "A site maintained for the public and declared to be of national or provincial historical significance and/or interest.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "FA110": {
+    "desc": "International Date Line",
+    "def": "A line designated as the place on the Earth where each calendar day begins.   [Description] This line generally coincides with the 180th meridian but is modified to avoid land.",
+    "geom": "Line",
+    "src": "TDS40,GGDM30"
+  },
+  "BA030": {
+    "desc": "Island",
+    "def": "A land mass, other than a continent, surrounded by water.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "DB211": {
+    "desc": "Landslide Mass",
+    "def": "The mass of earth or rock which has slipped down from a mountain or cliff.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "GB005": {
+    "desc": "Land Aerodrome",
+    "def": "An aerodrome on land intended to be used either wholly or in part for the arrival, departure and surface movement of aircraft.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "BH090": {
+    "desc": "Land Subject to Inundation",
+    "def": "A tract periodically covered by flood water, excluding tidal waters.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "BA010": {
+    "desc": "Land Water Boundary",
+    "def": "The line where a land mass is in contact with a body of water and the tide state or river stage are unspecified.   [Description] It may be in either the littoral or inland waters. In the littoral, consideration should be given to using the more specific high water or low water lines based on the nature of the source data collection.",
+    "geom": "Line",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "GB040": {
+    "desc": "Launch Pad",
+    "def": "A designated site or structure from which a rocket or missile is launched.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "BC050": {
+    "desc": "Lighthouse",
+    "def": "A distinctive structure on or off a coast exhibiting a major light designed to serve as an aid to navigation.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AL110": {
+    "desc": "Light Support Structure",
+    "def": "A structure serving as a support for one or more lights.   [Description] For example, a light standard or a lamp post.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "BC070": {
+    "desc": "Light Vessel",
+    "def": "A distinctively marked vessel anchored or moored at a charted point, to serve as an aid to navigation.   [Description] By night, it displays a characteristic light(s) and is usually equipped with other devices (for example: a fog signal, a submarine sound signal, and/or a radio-beacon) to assist navigation.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AB021": {
+    "desc": "Liquid Diffuser",
+    "def": "A site with fixed equipment located at or below water level for spreading out liquids (for example: cooling water).",
+    "geom": "Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "BI030": {
+    "desc": "Lock",
+    "def": "An enclosure with a pair or series of gates used for raising or lowering vessels as they pass from one water level to another.",
+    "geom": "Line,Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "EE010": {
+    "desc": "Logging Site",
+    "def": "A tract of vegetation that is being exploited for lumber resources.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AK121": {
+    "desc": "Lookout",
+    "def": "A location, which is generally elevated, from which the surrounding area may be observed.   [Description] For example, it is easily accessible by vehicle, is free of obscuring vegetation, and the local topography allows for unobstructed viewing of distant features.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "ED010": {
+    "desc": "Marsh",
+    "def": "A soft, poorly drained wetland that is characterized by the growth of only non-woody plants (for example: grasses) and often forms a transition region between a waterbody and land.   [Description] It is subject to frequent or tidal inundations, but not considered to be continually under water. It lacks trees. A subtype of the more generalized wetland.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AL130": {
+    "desc": "Memorial Monument",
+    "def": "A marker erected and/or maintained as a memorial to a person and/or event.",
+    "geom": "Line,Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "SU001": {
+    "desc": "Military Installation",
+    "def": "An installation designed for military use.   [Description] For example, used to perform military operations, initiate forward movements, and/or furnish supplies. Often protected by fortifications or natural advantages.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AL065": {
+    "desc": "Minefield",
+    "def": "A site laid with explosive mines.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AM040": {
+    "desc": "Mineral Pile",
+    "def": "A man-made heap of mining or quarrying products that does not contain waste materials.   [Description] For example, a pile of coal or quarried stones.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AA020": {
+    "desc": "Mine Shaft Superstructure",
+    "def": "A structure over a vertical mine shaft containing machinery (for example: a winding head or hoist) used to transport minerals, equipment, and/or workers between the surface and various levels within the mine.   [Description] It is usually the most prominent structure at a shaft mining facility.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AL120": {
+    "desc": "Missile Site",
+    "def": "A site and related facilities for storing and launching missiles.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "BH100": {
+    "desc": "Moat",
+    "def": "A trench surrounding a tract of land and serving as a barrier.   [Description] It is usually filled with water.",
+    "geom": "Line,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AI021": {
+    "desc": "Mobile Home Park",
+    "def": "A site for the semi-permanent parking of manufactured homes used as dwellings and designed without a permanent foundation.   [Description] Manufactured homes are prefabricated homes built in factories, rather than on-site, and then taken to the place where they will be occupied. They are usually transported by tractor-trailers over public roads to sites which are often in rural areas or high-density developments. While these houses are usually placed in one location and left there permanently, they do retain the ability to be moved as this is a requirement in many areas. Behind the cosmetic work fitted at installation to hide the base, there are strong trailer frames, axles, wheels and tow-hitches.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AQ110": {
+    "desc": "Mooring Mast",
+    "def": "A mast used to secure an airship.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "BJ020": {
+    "desc": "Moraine",
+    "def": "An accumulation of soil and stone debris deposited by a glacier.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AQ170": {
+    "desc": "Motor Vehicle Station",
+    "def": "A building at, or in which, motor vehicles are refuelled, serviced, and sometimes repaired.   [Description] Usually accompanied by several prominently placed petrol pumps.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "DB150": {
+    "desc": "Mountain Pass",
+    "def": "A narrow route through a mountainous region or over a mountain range.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AM065": {
+    "desc": "Munition Storage Facility",
+    "def": "A facility for the storage of munitions (for example: bombs, missiles, warheads, mines or ammunition).   [Description] Specifically, storage of weapons charged with: explosives; propellant; pyrotechnics; initiating composition; or nuclear, chemical, or biological material for use in military operations. Facilities may range in size from a small stockpile of munitions (sometimes termed an ammo dump) that may be revetted to a large perimeter-controlled site with multiple dispersed bunkers laid out to minimize the effect of accidental detonation (sometimes termed a munitions depot).",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "ZD040": {
+    "desc": "Named Location",
+    "def": "A location that normally does not appear as a specific, characterized object but that has a name that is required to be displayed in association with that location.   [Description] For example, the name of the Alps or the Sahara.",
+    "geom": "Line,Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "BH170": {
+    "desc": "Natural Pool",
+    "def": "A naturally formed pool of water.   [Description] It is usually fed by surface drainage from the surrounding region and/or water arising from an underground source (for example: a spring or a resurgence).",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AL014": {
+    "desc": "Non-building Structure",
+    "def": "A free-standing self-supporting construction (for example: a large piece of equipment) designed to support human activities (for example: agriculture, manufacturing, or mining) but not intended for human occupancy and/or habitation (for example: a house, a bank, an office, or a stadium).   [Description] May have only limited protection from the weather (for example: a hayrick) and often composed of components specialized for a particular activity (for example: animal feeding, material storage, or traffic control) or process (for example: chemical reaction, heating, mixing, or physical shaping). For example, a cane press, a cement mill, a cotton gin, a distillation tower, and a rock crusher.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "ZI041": {
+    "desc": "Non-spatial Metadata Entity Collection",
+    "def": "",
+    "geom": "Area",
+    "src": "TDS40"
+  },
+  "AA054": {
+    "desc": "Non-water Well",
+    "def": "A shaft sunk into the ground to reach and tap a supply of liquids and/or gases other than water intended for use in agriculture or domestic consumption.   [Description] Typically drilled to tap underground reservoirs of hydrocarbons (for example: petroleum or natural gas). May also, for example, yield geothermally heated liquids for use in power generation or heating, or brine for use in the extraction of salt.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AD041": {
+    "desc": "Nuclear Reactor Containment",
+    "def": "A building-like structure intended to create a barrier against the release of radioactivity generated during nuclear power operations.   [Description] The structure is usually heavily reinforced. It houses equipment used to manage a self-sustaining nuclear reaction of fissile material. The consequent release of energy may be used to generate electricity, as in a power plant.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "EC020": {
+    "desc": "Oasis",
+    "def": "A fertile tract of land that occurs in a desert wherever a permanent supply of fresh water is available.   [Description] Oasis vary in size from a pond with a group of date palms around small springs to the oasis cities of the deserts with extended agricultural cultivation.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AG040": {
+    "desc": "Office Park",
+    "def": "A commercial facility consisting of multiple office buildings tenanted by one or more non-retail businesses (for example: corporate management, consulting services, or research and development) and supportive businesses (for example: a restaurant serving mid-day meals or a post office) that share a common park-like setting consisting of landscaping (for example: lawns, ornamental plantings, or ponds), parking facilities, and common entrances from adjacent roads.   [Description] May also include commercial tenants involved in light industry (for example: gem cutting or specialized electronics manufacture).",
+    "geom": "Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "BD115": {
+    "desc": "Offshore Construction",
+    "def": "An artificial structure that is located offshore.   [Description] It usually has a surface that is raised above the sea and may be used as a working stage for conducting offshore operations (for example: drilling for petroleum and/or natural gas, loading and/or unloading vessels, or navigation support).",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "EA040": {
+    "desc": "Orchard",
+    "def": "A tract covered by systematic plantings of trees that yield fruits (including nuts).",
+    "geom": "Area,Point",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AK080": {
+    "desc": "Outdoor Theatre Screen",
+    "def": "A large outdoor screen for showing motion pictures.",
+    "geom": "Line,Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AL155": {
+    "desc": "Overhead Obstruction",
+    "def": "An overhead obstruction (for example: an underpass, an overhead pipeline, and/or the overhang of a building) on a transportation route.",
+    "geom": "Line,Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AQ141": {
+    "desc": "Parking Garage",
+    "def": "A designated, multi-level, structure used for parking and/or storing vehicles.   [Description] May be present as part of a building or as a separate structure.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AK120": {
+    "desc": "Park",
+    "def": "An area of defined limits which is set aside for human recreation and enjoyment and/or for historic preservation purposes, and is usually maintained in a natural, semi-natural, or ornamentally planted state.   [Description] Parks may be in urban areas such as Central Park in New York City or in less developed areas such as Poplar Forest in Forest, Virginia, where Thomas Jeffersons plantation and plantation house are located.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AL140": {
+    "desc": "Particle Accelerator",
+    "def": "An apparatus, and its enclosing structure, that is used to impart high velocities to charged particles.",
+    "geom": "Line,Area,Point",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "BH110": {
+    "desc": "Penstock",
+    "def": "A pipeline that is used by hydroelectric plants to transport water by gravity from a reservoir to the turbine(s).",
+    "geom": "Line",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AK061": {
+    "desc": "Picnic Site",
+    "def": "A site that has been set aside for picnics.   [Description] It may have picnic tables for public use.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AQ113": {
+    "desc": "Pipeline",
+    "def": "A connected set of pipes for conveying liquids, slurries, or gases.   [Description] Usually for long distances and often located underground.",
+    "geom": "Line",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AL165": {
+    "desc": "Pipeline Crossing Point",
+    "def": "A traversable site extending across a pipeline that acts as a passageway for cross-country movement of vehicles or troops.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "EA030": {
+    "desc": "Plant Nursery",
+    "def": "A tract where plants (for example: shrubs, flowers, and/or trees) are grown for transplanting, seed, and/or grafting.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "BJ080": {
+    "desc": "Polar Ice",
+    "def": "Sea ice that is more than one year old and more than 3 metres thick.   [Description] Sea ice is any form of ice which has originated from sea water.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "BB009": {
+    "desc": "Port",
+    "def": "A place provided with terminal and transfer facilities for loading and/or discharging cargo or passengers, usually located in a harbour.   [Description] A port and its related waters together comprise a harbour.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AD030": {
+    "desc": "Power Substation",
+    "def": "A facility, along a power transmission line, in which electric current is switched, transformed, and/or converted.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AQ111": {
+    "desc": "Prepared Watercourse Crossing",
+    "def": "A location on a watercourse that has ramps, structural piles, and/or piers constructed on one or both shores to allow for suitable future crossing operations using floating bridges or rafting equipment.   [Description] For example, a prepared float bridge site or a prepared raft site.",
+    "geom": "Line,Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AL170": {
+    "desc": "Public Square",
+    "def": "An open site that serves as a public meeting location in a built-up area.",
+    "geom": "Area,Point",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AQ116": {
+    "desc": "Pumping Station",
+    "def": "A facility to move solids, liquids or gases by means of pressure or suction.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AT042": {
+    "desc": "Pylon",
+    "def": "A pylon or pole used to support one or more cables.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "BH012": {
+    "desc": "Qanat Shaft",
+    "def": "A vertical shaft that provides access to an underground aqueduct and which is part of a qanat system.   [Description] A qanat system consists a system of deep underground tunnels especially constructed to channel water from an uphill region to a dryer lower region for use (for example: a village, a garden, a crop land), and qanat shafts to provide access from the surface to the underground tunnels.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AK130": {
+    "desc": "Racetrack",
+    "def": "A ground or tract marked out for racing.   [Description] The track may be banked to facilitate high-speed racing, either by grading of the terrain or the use of structures. The bank angle may exceed 30 arc degrees and such structures can reach significant heights.",
+    "geom": "Line,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AT045": {
+    "desc": "Radar Station",
+    "def": "A facility utilizing radar to detect and analyse objects (for example: aircraft, artificial satellites, asteroids, and/or missiles) and/or environmental phenomena (for example: tornadoes).   [Description] May include both a radar aerial as well as a structure housing radar equipment.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AN010": {
+    "desc": "Railway",
+    "def": "One or more railway tracks comprising a network that is operated for the conveyance of passengers and/or goods.",
+    "geom": "Line",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AN050": {
+    "desc": "Railway Sidetrack",
+    "def": "A stretch of railway track connected to a main railway and used for temporary storage, passing, loading, and/or unloading.",
+    "geom": "Line",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AN085": {
+    "desc": "Railway Signal",
+    "def": "A signalling device, with its supporting structure, that is used to control traffic on a railway.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AN075": {
+    "desc": "Railway Turntable",
+    "def": "A rotating platform with railway tracks used for turning locomotives and/or railway carriages.   [Description] May be enclosed within a structure.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AN060": {
+    "desc": "Railway Yard",
+    "def": "A system of railway tracks and associated structures that are located within defined limits and that provide for loading, unloading, and/or assembling trains.",
+    "geom": "Area,Point",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AL195": {
+    "desc": "Ramp",
+    "def": "An inclined plane, usually man-made, for moving between two levels.",
+    "geom": "Line,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "BH120": {
+    "desc": "Rapids",
+    "def": "Portions of a stream with accelerated current where it descends rapidly but without a break in the slope of the bed sufficient to form a waterfall.   [Description] The surface is usually broken by boulders and rocks.",
+    "geom": "Line,Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AB010": {
+    "desc": "Recycling Site",
+    "def": "A site engaged in the wrecking, dismantling, storage, recycling, and/or disposal of discarded or scrap products.   [Description] For example, a wrecking yard or a scrap yard.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AL180": {
+    "desc": "Retail Stand",
+    "def": "A small structure that stands alone, and is designated for the purpose of supplying a product (for example: souvenirs, magazines, snacks or refreshments) or service (for example: a shoe shine) to passers-by.   [Description] It may be roofed (for example: a newspaper stand along the side of a city street or the attendants booth in a parking lot or at a taxi cab stand), covered by an awning (for example: a cellular phone booth in the centre of the promenade of a shopping mall or a hot dog stand on a city sidewalk), or unroofed. Although often semi-permanent in nature it may be wheeled and portable on a seasonal basis or more frequently as business conditions warrant.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "BH135": {
+    "desc": "Rice Field",
+    "def": "A tract that is periodically covered with water and is used for growing rice.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AA040": {
+    "desc": "Rig",
+    "def": "A superstructure fitted for drilling or lifting operations for extraction and/or exploitation of natural resources.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "BH140": {
+    "desc": "River",
+    "def": "A natural flowing watercourse.",
+    "geom": "Line,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AQ135": {
+    "desc": "Roadside Rest Area",
+    "def": "A roadside place usually having facilities for people and/or vehicles.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AP030": {
+    "desc": "Road",
+    "def": "A route with a specially prepared surface that is intended for use by wheeled vehicles.",
+    "geom": "Line,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AP020": {
+    "desc": "Road Interchange",
+    "def": "A system of interconnecting roads (sometimes called ramps) located at a road junction that provides for the free movement of traffic between two or more routes on different levels.   [Description] A road interchange utilizes grade separation and bridges to permit traffic on at least one road to pass through the junction without directly crossing any other traffic stream.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "DB160": {
+    "desc": "Rock Formation",
+    "def": "A significant outcropping of exposed bedrock.",
+    "geom": "Point,Area,Line",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AN076": {
+    "desc": "Roundhouse",
+    "def": "A circular or semicircular building, with a railway turntable in the centre, used for storing and/or repairing railway locomotives.   [Description] The railway turntable may be either completely covered, partially covered or not covered, and partially or completely surrounded by the building.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AL200": {
+    "desc": "Ruins",
+    "def": "The deteriorated remains of an unspecified structure.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "GB055": {
+    "desc": "Runway",
+    "def": "A defined rectangular area on a land aerodrome prepared for the landing and take-off of aircraft.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "BH160": {
+    "desc": "Sabkha",
+    "def": "A natural depression in arid or semi-arid regions whose bed is covered with salt encrusted clayey soil.   [Description] Found especially in North Africa and Arabia.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "BH155": {
+    "desc": "Salt Evaporator",
+    "def": "Shallow pools, normally man-made, used for the natural evaporation of water for the collection of salt.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "BH150": {
+    "desc": "Salt Flat",
+    "def": "A flat area of natural surface salt deposits.   [Description] May also be used to describe smaller areas; these are commonly termed salt pans.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "DB170": {
+    "desc": "Sand Dunes",
+    "def": "One or more mounds or ridges of sand usually formed by the wind.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AK161": {
+    "desc": "Scoreboard",
+    "def": "A large outdoor board for publicly displaying the score in an athletic event.   [Description] Usually associated with a sports stadium or major playing field.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "GB070": {
+    "desc": "Seaplane Run",
+    "def": "A designated portion of water that is outlined by visual surface markings and used by seaplanes to land and take-off.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AL105": {
+    "desc": "Settlement",
+    "def": "A continuously occupied concentration of tents or lightweight fixed structures (for example: huts) serving as residences.   [Description] May also include supporting non-residential (for example: commercial) structures.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AC030": {
+    "desc": "Settling Pond",
+    "def": "A small reservoir where solid matter is precipitated from a liquid by evaporating or settling.",
+    "geom": "Area,Point",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AC507": {
+    "desc": "Sewage Treatment Plant",
+    "def": "An operational area with buildings and other facilities for the purification of wastewater.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AL208": {
+    "desc": "Shanty Town",
+    "def": "A section of a built-up area consisting chiefly of densely packed shacks and having few, if any, streets and no public facilities.   [Description] Usually located on the outskirts of the built-up area. The shacks are generally crude, improvised, and made from salvaged materials.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AQ118": {
+    "desc": "Sharp Curve",
+    "def": "A curve along a land transportation route that may restrict vehicle traffic.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AA011": {
+    "desc": "Shear Wall",
+    "def": "The wall of the excavation within a quarry or extraction mine.",
+    "geom": "Line",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AL019": {
+    "desc": "Shed",
+    "def": "A small building, generally of light construction, that usually has one or more open sides.   [Description] Typically used for storage.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AM011": {
+    "desc": "Shipping Container",
+    "def": "A moveable container used for the shipping of solid, liquid, or gaseous materials.   [Description] The container may be either closed on all sides or open on the top or along a side. With minor modifications, if needed, shipping containers may be used for non-traditional purposes including, for example: emergency shelter, housing, retail activities, warehousing and secure space.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "BB241": {
+    "desc": "Shipyard",
+    "def": "A large enclosed area adjoining the sea or a major river, including facilities in which ships are built or repaired.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "BI006": {
+    "desc": "Ship Elevator",
+    "def": "A structure with accompanying mechanisms that are used to raise ships vertically between water bodies with different elevations.",
+    "geom": "Line,Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AG030": {
+    "desc": "Shopping Complex",
+    "def": "A commercial facility tenanted by multiple retail stores (for example: household goods, clothing, or books), restaurants (for example: a food court), entertainment venues (for example: a movie theatre or electronic games arcade), and/or other businesses (for example: professional services), that is completely enclosed, climate controlled, has a common public arcade (for example: furnished with decorative plantings, benches, and/or fountains) and a common vehicle parking area (for example: a parking lot or parking garage).   [Description] When the commercial entrances open onto the interior of the complex (public access being by means of central entries and broad corridors) it may consist of multiple levels connected by escalators and is often termed a shopping mall. When the commercial entrances open towards the exterior of the complex and access to individual commercial entrances is directly from an adjacent vehicle parking area it consists of a single level and is often termed a shopping centre or shopping plaza.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "BB081": {
+    "desc": "Shoreline Construction",
+    "def": "An artificial structure attached to land bordering a body of water and fixed in position.   [Description] It is usually fixed to the waterbody bottom (for example: a mole) but may occasionally be fixed in position (for example: attached to the shore at one end and held between pilings at the other), but floating. Shoreline constructions are normally used for berthing and/or protection.",
+    "geom": "Line,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "BB082": {
+    "desc": "Shoreline Ramp",
+    "def": "A ramp-like structure on a shoreline that is intended to facilitate the movement of vessels and/or materials (for example: logs) into or out of the water.",
+    "geom": "Line,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AQ035": {
+    "desc": "Sidewalk",
+    "def": "A paved or improved pedestrian path, typically located adjacent and parallel to a street or road.",
+    "geom": "Line",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AK150": {
+    "desc": "Ski-jump",
+    "def": "A man-made structure consisting of a steep ramp levelling off at the end and built on a natural slope, used in ski-jumping.",
+    "geom": "Line,Point",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AK155": {
+    "desc": "Ski-run",
+    "def": "A slope or trail prepared for skiing.",
+    "geom": "Line,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "BI040": {
+    "desc": "Sluice Gate",
+    "def": "A gate used to regulate the flow or level of water in a watercourse (for example: stream, irrigation ditch, or sluice).   [Description] Sluice gates are normally installed in a superstructure and/or frame and most commonly slide vertically to open but on occasion may instead slide horizontally. When opened they allow water to flow under or beside the gate. Commonly sluice gates will be installed perpendicular to the orientation of the flow of water within a watercourse and will be constructed as wide as the watercourse they regulate. Sluice gates may also be installed along the margins of watercourses for the purpose of controlling or permitting the flow of water to or from that watercourse into adjacent watercourses. Sluice gates may be used to regulate both tidal or non-tidal waters.",
+    "geom": "Line,Point",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "BB201": {
+    "desc": "Small Craft Facility",
+    "def": "A place at which a service generally of interest to small craft or pleasure boats is available.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AF010": {
+    "desc": "Smokestack",
+    "def": "A vertical structure containing a passage or flue for discharging smoke and gases of combustion.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "BD140": {
+    "desc": "Snag",
+    "def": "A substantial item of woody vegetation (for example: tree, trunk, or bush) or a broken structural pile that is embedded in the bottom of a body of water (for example: ocean, river or inland waterbody) thereby creating a hazard to water travel.   [Description] The visibility of the snag at the water surface will depend in its size and the existing water depth.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "BJ100": {
+    "desc": "Snow Field and/or Ice-field",
+    "def": "A large area permanently covered by snow and/or ice.   [Description] May cover land and/or water.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "DA010": {
+    "desc": "Soil Surface Region",
+    "def": "A region of the land that is homogeneous with respect to a soil characteristic.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AD025": {
+    "desc": "Solar Farm",
+    "def": "An extensive collection of solar panels that are collocated and serve a common purpose (for example: the generation of electricity or the generation of heating steam and/or water).   [Description] The collection is often organized as an array covering many hundreds of square metres in area and it may be controlled so as to track the direction of the sun throughout the day.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AD020": {
+    "desc": "Solar Panel",
+    "def": "An affixed panel designed to absorb the suns rays for the purpose of generating electricity or heat.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AL351": {
+    "desc": "Space Facility",
+    "def": "A facility that is used to support space related activities (for example: services such as assembly, launching or recovery of spacecraft or managing flight operations).",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "ZI040": {
+    "desc": "Spatial Metadata Entity Collection",
+    "def": "",
+    "geom": "Area",
+    "src": "TDS40"
+  },
+  "BH165": {
+    "desc": "Spillway",
+    "def": "A passage for surplus water to run over or around a dam.",
+    "geom": "Line,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AK040": {
+    "desc": "Sports Ground",
+    "def": "An open area where sporting events, exercises, and/or games occur.   [Description] For example, an athletic field, a playing field, and/or a sports field.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "CA030": {
+    "desc": "Spot Elevation",
+    "def": "A designated location with an elevation value relative to a vertical datum.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AJ080": {
+    "desc": "Stable",
+    "def": "A building similar to a barn and adapted for the shelter and feeding of domestic animals, being divided into individual stalls.   [Description] Although commonly used to house horses, it may be used to house other animals (for example: prize cattle, sheep or goats) and often includes a storage loft (for example: for hay).",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AK160": {
+    "desc": "Stadium",
+    "def": "A field and/or stage partly or completely surrounded by a structure designed to allow spectators to stand or sit while viewing an event.   [Description] The field and/or stage may be enclosed in a building or be outdoors. Stadiums are surrounded on most or all sides by tiered seating for spectators. Often designed in size and shape to accommodate specific sports (for example: baseball, football, basketball or ice hockey), theatre or musical performances.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AQ150": {
+    "desc": "Stair",
+    "def": "A series of fixed steps leading from one level to another, especially such a series leading from one floor level to another inside a structure.   [Description] The steps may also be on the outside of the structure, for example, on a gasometer.",
+    "geom": "Line,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AQ120": {
+    "desc": "Steep Grade",
+    "def": "A stretch along a land transportation route where the slope is high enough to slow, hinder, or even stop traffic.   [Description] The percent (%) slope is the ratio of change in elevation (vertical distance) to horizontal ground distance multiplied by 100.",
+    "geom": "Line",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "DB010": {
+    "desc": "Steep Terrain Face",
+    "def": "A steep, vertical, or overhanging face of rock and/or soil.   [Description] For example, an escarpment, a bluff, or a cliff.",
+    "geom": "Line",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "GB045": {
+    "desc": "Stopway",
+    "def": "A defined rectangular area on the ground at the end of the take-off run available that has been prepared as a suitable area in which an aircraft can be stopped in the case of an abandoned take-off.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AM010": {
+    "desc": "Storage Depot",
+    "def": "A tract used for the storage of products and/or supplies.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AM070": {
+    "desc": "Storage Tank",
+    "def": "A container used for the storage of liquids and/or gases that is not supported by a tower.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AQ114": {
+    "desc": "Storm Drain",
+    "def": "A collector opening into a pipe or channel to allow the removal of excess runoff water or in some cases sewage.   [Description] In civil engineering terms, a drop inlet.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AQ161": {
+    "desc": "Street Lamp",
+    "def": "A lamp, with its supporting structure, that is intended to illuminate a road.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AQ162": {
+    "desc": "Street Sign",
+    "def": "A sign placed along a road for the purpose of regulating the flow of traffic (for example: vehicles and/or pedestrians) and/or providing information.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "BD100": {
+    "desc": "Structural Pile",
+    "def": "A long pile (for example: a heavy timber or section of steel, wood, or concrete) forced into the earth that may serve as a support (for example: for a pier) or as a free standing pole within a marine environment.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AM060": {
+    "desc": "Surface Bunker",
+    "def": "A surface structure that may be covered and/or surrounded with earth and is resistant to ordnance.   [Description] Used, for example, for storage and/or aircraft protection.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "ED020": {
+    "desc": "Swamp",
+    "def": "A seasonally flooded, poorly drained wetland with more woody plants than a marsh and better drainage than a bog.   [Description] It is covered with water all or most of the year, and accumulating dead vegetation does not rapidly decay. It can exist on flat-lying areas created by certain geomorphic environments. The vegetation mainly consists of hydrophytic trees and/or scrubs whose roots are adapted to wet conditions, with an open to very dense canopy closure. A subtype of the more generalized wetland.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AK170": {
+    "desc": "Swimming Pool",
+    "def": "A man-made pool used for swimming outdoors.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AM071": {
+    "desc": "Tank Farm",
+    "def": "A tract of land occupied by large-capacity tanks in which petroleum, natural gas, or liquid petrochemicals are stored.   [Description] The tanks are usually round, constructed from metal plates, and separated from each other by berms intended to contain any leakage.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "GB075": {
+    "desc": "Taxiway",
+    "def": "A defined path at an aerodrome established for the taxiing of aircraft and intended to provide a ground movement link between one part of the aerodrome and another.",
+    "geom": "Line,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "FA100": {
+    "desc": "Test Site",
+    "def": "A site for the testing of technical products and equipment.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AL510": {
+    "desc": "Tethered Balloon",
+    "def": "A balloon that is linked to the ground at a fixed point.   [Description] The linkage is accomplished by attaching a cable from the balloon to a permanent anchor point (for example: a ring and pad) or a substantial structure (for example: a mooring tower). It is usually deployed for extended periods of time and may be used, for example, for weather sensing and/or observation of the surrounding terrain.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "EB020": {
+    "desc": "Thicket",
+    "def": "A tract covered mainly by low-growing, uncultured, woody plants that are thickly tangled together.   [Description] For example, covered by brushwood and/or stunted trees. The predominant height may be up to 6-8 metres.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "BA040": {
+    "desc": "Tidal Water",
+    "def": "Any water the level of which changes periodically due to tidal action.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AL036": {
+    "desc": "Tomb",
+    "def": "A structure within which a corpse is entombed.   [Description] It is often a building-like structure that may be partly or wholly underground (except for its entrance), but may be a simple enclosure cut into solid rock (for example: into a cliff face or inside of a cave). It may contain a single corpse or a related group (for example: a family) may be entombed together.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AL241": {
+    "desc": "Tower",
+    "def": "A relatively tall, narrow structure that may either stand alone or may form part of another structure.   [Description] Usually of a square, circular, or rectangular cross-section.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AQ160": {
+    "desc": "Traffic Light",
+    "def": "A set of automatic lights (usually red, amber, and green) for controlling road traffic, with its supporting structure.   [Description] Traffic lights are typically installed at road intersections, where they are attached to tall poles or suspended from overhead cables.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AP050": {
+    "desc": "Trail",
+    "def": "A path worn by the passage of people or animals.",
+    "geom": "Line",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "FA165": {
+    "desc": "Training Site",
+    "def": "A site reserved for training.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AQ068": {
+    "desc": "Transportation Block",
+    "def": "A substantial semi-permanent assemblage of material, usually in the form of concrete blocks and/or cylinders, positioned alongside or above a land transportation route, ready to be activated as a potential barrier.   [Description] For example, a rolling block is positioned alongside the route and a drop gate is positioned above the route.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AQ125": {
+    "desc": "Transportation Station",
+    "def": "A station, usually having associated structures, which serves as a place for disembarking or taking on passengers or freight along a transportation route.   [Description] Transportation routes may include railway, pipeline, road, water or air. Transportation stations may have associated structures for vehicle parking or ticket sales.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AQ059": {
+    "desc": "Transportation Route Characteristic Change",
+    "def": "A section of a transportation route where its size (for example: narrowing or expansion in width) and/or operating speed is significantly different than in the adjacent sections of the route.   [Description] For example, an increase or decrease in the number of lanes in a road. Constrictions along or beside a transportation route may impede the flow of vehicles or people thus resulting in choke points.",
+    "geom": "Line,Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AL211": {
+    "desc": "Transportation Route Protection Structure",
+    "def": "A structure built over and/or along a transportation route designed to prevent damage to, or blockage of, the route from rock slides, snow slides and/or weather phenomena.   [Description] For example, a snow shed, a rock shed or a gallery. These structures are usually located in rugged mountainous regions.",
+    "geom": "Line,Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "EC005": {
+    "desc": "Tree",
+    "def": "An individual woody perennial plant, typically having a single stem or trunk growing to a considerable height and bearing lateral branches at some distance from the ground.   [Description] May be distinguished by its relative isolation from other features, thus serving as a landmark.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "BJ110": {
+    "desc": "Tundra",
+    "def": "A vast, nearly level, treeless arctic region usually with a marshy surface and underlying permafrost.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AQ130": {
+    "desc": "Tunnel",
+    "def": "An underground passage that is open at both ends and usually contains a land transportation route (for example: a road and/or a railway).   [Description] Commonly used to pass through a hill or mountain, or under a river or road. May also provide underground passage in a mine.",
+    "geom": "Line,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AQ095": {
+    "desc": "Tunnel Mouth",
+    "def": "The opening of a tunnel into a larger space (for example: onto the terrain surface).   [Description] A tunnel is usually open to the terrain surface at both ends, but may sometimes lead to an enclosed space, for example: leading to an underground bunker, into an underground mine (termed an adit) or into an underground railway station.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AH060": {
+    "desc": "Underground Bunker",
+    "def": "A reinforced underground shelter.   [Description] May be located within a mountain or buried below the terrain. Often used as an underground facility for military command, control, and/or troop billeting.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AL250": {
+    "desc": "Underground Dwelling",
+    "def": "Underground living quarters.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AQ115": {
+    "desc": "Utility Cover",
+    "def": "A location that provides access to underground utility tunnels, distribution lines, or drainage systems.   [Description] Utility access points are often protected by a cover or plate (for example: a manhole cover).",
+    "geom": "Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "BH145": {
+    "desc": "Vanishing Point",
+    "def": "The location at which a watercourse disappears into the terrain.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AP041": {
+    "desc": "Vehicle Barrier",
+    "def": "An obstruction associated with a transportation route (for example: a road, a railway, a tunnel, or a bridge) to constrain, restrict, and/or prevent passage of vehicles.   [Description] A permanent obstruction is fixed in place at a given location to continuously constrain traffic, and it is constructed such that it cannot be removed without major roadway excavation. A semi-permanent obstruction is placed at a given location so that traffic can be continuously constrained, but it is constructed such that it can be removed without major roadway excavation. A temporary, or non-permanent obstruction is placed at a given location to constrain traffic for a limited time only, and it is constructed such that it can be removed without major roadway excavation.",
+    "geom": "Line,Point",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AQ140": {
+    "desc": "Vehicle Lot",
+    "def": "A tract used for storing and/or parking vehicles (for example: recreational vehicles) and/or vessels.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "BI005": {
+    "desc": "Vessel Lift",
+    "def": "A mechanical device for lifting vessels from the water.   [Description] The device may be, for example, a stationary crane or a wheeled vehicle. After removal from the water the vessel may be maintained (for example: cleaning the hull of encrustations) or stored (for example: moved to a building, shed, or lot for winter storage).",
+    "geom": "Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "EA050": {
+    "desc": "Vineyard",
+    "def": "A tract covered by the systematic planting of grape vines.",
+    "geom": "Area,Point",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "ZD020": {
+    "desc": "Void Collection Area",
+    "def": "A data collection region lacking suitable source coverage and/or where data is not required.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "DB190": {
+    "desc": "Volcanic Dyke",
+    "def": "A sheet of rock filling a fissure that sometimes shows as a terrain ridge.   [Description] Especially a mass of igneous rock that has intruded upwards through strata.",
+    "geom": "Line",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "DB180": {
+    "desc": "Volcano",
+    "def": "A hill or mountain situated over an opening or openings in the Earths crust through which lava, cinders, steam, and/or gases, are or have been expelled.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AL260": {
+    "desc": "Wall",
+    "def": "A solid man-made barrier of generally heavy material used as an enclosure, boundary, or for protection.",
+    "geom": "Line",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "BH180": {
+    "desc": "Waterfall",
+    "def": "A vertically descending part of a watercourse where it falls from a height (for example: over a rock or a precipice).   [Description] In place names, commonly shortened to fall or falls, for example, Niagara Falls.",
+    "geom": "Line,Point",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "BH220": {
+    "desc": "Waterwork",
+    "def": "An establishment for storing, purifying, and supplying an area or town with water.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "GB065": {
+    "desc": "Water Aerodrome",
+    "def": "An aerodrome intended to be used either wholly or in part for the arrival, departure and surface movement of aircraft on water.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "BI050": {
+    "desc": "Water Intake Tower",
+    "def": "A tower-like structure associated with a dam or water source and used for the intake of water.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AJ055": {
+    "desc": "Water Mill",
+    "def": "A structure that uses a water wheel or turbine to drive a mechanical process (for example: grinding grain into flour, cutting timber into lumber, or stripping bark from trees for use in tanning).   [Description] A water mill that only generates electricity is more usually termed a hydroelectric plant.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "BH065": {
+    "desc": "Water Race",
+    "def": "An artificial channel for a current of water, especially one built to provide water for industrial or agricultural purposes or for transporting water-borne materials.   [Description] For example, a sluice, a flume, or a tailrace.",
+    "geom": "Line",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AM080": {
+    "desc": "Water Tower",
+    "def": "A tower supporting an elevated storage tank of water.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "BH040": {
+    "desc": "Water Treatment Bed",
+    "def": "A tract for the treatment of water that consists of a bed of material where water is aerated or filtered.",
+    "geom": "Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "BH230": {
+    "desc": "Water Well",
+    "def": "A shaft sunk into the ground to reach and tap a supply of water intended for uses other than power generation, heating or the extraction of minerals.   [Description] May be, for example, drilled to tap deep underground reservoirs or dug to reach a shallow water table. Dug wells are typically circular, lined with masonry, have a stone border and a structure built above then for lowering and raising a bucket.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AQ180": {
+    "desc": "Weigh Station",
+    "def": "",
+    "geom": "Point,Area",
+    "src": "TDS40"
+  },
+  "AJ050": {
+    "desc": "Windmill",
+    "def": "A system of wind-driven vanes, and the tower by which it is supported, that are used to produce mechanical power.   [Description] Often used to pump water from an underground location to the surface. Wind turbines that generate electricity are excluded.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AD060": {
+    "desc": "Wind Farm",
+    "def": "A collection of windmotors that are collocated and are organized as a single power generation unit.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,GGDM30"
+  },
+  "AJ051": {
+    "desc": "Wind Turbine",
+    "def": "A tower and associated equipment that generates electrical power from wind.",
+    "geom": "Point",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "AK180": {
+    "desc": "Zoo",
+    "def": "A site where wild animals are kept for exhibition to the public, that may also support breeding and/or study.",
+    "geom": "Point,Area",
+    "src": "TDS40,TDS61,MGCP,GGDM30"
+  },
+  "DB028": {
+    "desc": "Cave Chamber",
+    "def": "An interconnected series of naturally occurring subterranean chambers.   [Description] Typically located in limestone, and often open to the Earths surface either vertically or horizontally. Alterations may have been made to the cave chamber.",
+    "geom": "Area",
+    "src": "TDS61,GGDM30"
+  },
+  "AP033": {
+    "desc": "Engineered Turnaround Site",
+    "def": "A shaped area at the terminus of a local street that provides sufficient turning space allowing incoming traffic to turn around and exit without performing a stop-and-change-direction manoeuvre.   [Description] The site is intended to slow down and control the flow of vehicular traffic leaving the main avenue. Construction is typically in the form of a defined shape (for example: circle, loop, or crescent). Access to the shaped turnaround site is provided through a single inlet passageway and along a short, connecting street. Traffic flow proceeds continuously around the turnaround site (in whatever shape and degree of utility). Egress is provided back along the same short, connecting street through a single outlet. The single inlet and single outlet are the same passageways. A median-like structure may exist in the centre of the turnaround site, thus ensuring a well-defined pattern of vehicle movement. In residential areas the turnaround site often has multiple adjoining properties, each of which may have a separate driveway and/or defined parking area along the perimeter of the shaped area.",
+    "geom": "Point",
+    "src": "TDS61,GGDM30"
+  },
+  "ZI039": {
+    "desc": "Entity Collection Metadata",
+    "def": "Metadata (for example: source, lineage, quality) about an entity collection.   [Description] For example, the currency of the information known about an entity collection or the degree to which the properties of an entity collection are accurately and/or completely determined. An entity collection consists of instances of one or more modelling entities that were selected according to a common rationale (for example: based on a theme or spatial region).",
+    "geom": "Area",
+    "src": "TDS61,GGDM30"
+  },
+  "SU030": {
+    "desc": "Installation Boundary",
+    "def": "The line of demarcation specifying the operational limits of a functional area controlled by a recognized authority.   [Description] The geographic limits of the installation boundary may include both land and water currently owned or used by the recognized controlling installation or facility. Typically, the installation boundary will enclose a grouping of facilities, located in the same general vicinity, which support functions particular to the needs and requirements of the installation property. The controlling installation or facility may have been constructed to support military operations.",
+    "geom": "Line",
+    "src": "TDS61,GGDM30"
+  },
+  "IA040": {
+    "desc": "Land Parcel",
+    "def": "A tract of land that is defined in location and extent according to legally or customarily recognized methods (for example: social tenure).   [Description] Improvements (for example: buildings, fences, and wells) to the tract of land are distinct from the land itself and thus may have different associated rights and/or restrictions than those of the underlying tract of land. Social tenure (also called customary tenure) is the allocation and security of rights in land based on customs and social authority, rather than on a formal legal system of land registration. In some areas of the world, social tenure is the basis for informal land administration. Some legal land administration systems recognize and/or incorporate social tenure-based rights. An example of recognition without incorporation is social tenure shells, in which areas are set aside where social tenure is the recognized authority for land rights. In other cases, individual social tenure-based rights may be registered within the legal system.",
+    "geom": "Area",
+    "src": "TDS61,GGDM30"
+  },
+  "AL371": {
+    "desc": "Manor House",
+    "def": "A large and imposing house with many rooms, and often of architectural significance, which is located on a large rural estate.   [Description] The term Manor House covers a range of buildings from relatively modest rectories up to the largest and grandest country houses termed stately homes. Titular names of manor houses frequently carry a suffix such as House, Manor(s), Tower(s), Hall, Park, Grange, Court, or Palace. Historically, manor houses were residences for the landed gentry or the very wealthy. Although this still applicable today, many are used for different functions such as museums, hotels, amusement, hospitals, religious activities, and schools. A lack of fortification features distinguishes a manor house from a castle. The estate surrounding a manor house is typically at least several square kilometres in extent, often with a garden in the immediate vicinity of the house and a larger park beyond for aesthetic, recreational, and/or agricultural purposes.",
+    "geom": "Point,Area",
+    "src": "TDS61,GGDM30"
+  },
+  "ZB050": {
+    "desc": "Survey Point",
+    "def": "A location where horizontal and/or vertical control has been determined by surveying methods.   [Description] Surveys are used to establish positions (horizontal or vertical) of selected points. The points are then used to reference other survey observations or measurements.",
+    "geom": "Point",
+    "src": "TDS61,GGDM30"
+  },
+  "AP056": {
+    "desc": "Tank Crossing",
+    "def": "A crossing or turn pad where tracked military vehicles cross over other transportation elements.   [Description] Typically a hardened area minimizing the impact of tracked vehicles on the underlying transportation feature (for example: road or railway). May be used as a crossing over other transportation, or a turn pad within a system of tank trails.",
+    "geom": "Point,Area",
+    "src": "TDS61,GGDM30"
+  },
+  "AP055": {
+    "desc": "Tank Trail",
+    "def": "A designated route where tracked military vehicles have jurisdiction to travel, usually within a military training area.",
+    "geom": "Area,Line",
+    "src": "TDS61,GGDM30"
+  },
+  "AB507": {
+    "desc": "Waste Heap",
+    "def": "An area where heaped material (for example: waste or spoil) is deposited.   [Description] Waste heaps may be located at disposal sites or in unsanctioned and unprepared locations where illegal dumping takes place. Illegal dumping sites are usually composed of materials produced in the immediately surrounding area; for example, in a residential neighbourhood their content would principally be household trash. Illegal dumping sites have no associated structures or facilities.",
+    "geom": "Point,Area",
+    "src": "TDS61,GGDM30"
+  },
+  "ZD070": {
+    "desc": "Water Measurement Location",
+    "def": "A location at which water-related measurements are taken.   [Description] Water measurements include, for example: water chemistry and/or quality; water depth, volume or velocity; and water presence variability or seasonality.",
+    "geom": "Point,Area",
+    "src": "TDS61,GGDM30"
+  },
+  "AA012": {
+    "desc": "Quarry",
+    "def": "An open-air excavation created by removal of stone by blasting or cutting.",
+    "geom": "Area,Point",
+    "src": "MGCP"
+  },
+  "AC000": {
+    "desc": "Processing Facility",
+    "def": "A facility including one or more buildings used for processing materials. ( For example, a treatment plant. )",
+    "geom": "Area,Point",
+    "src": "MGCP"
+  },
+  "AH050": {
+    "desc": "Fortification",
+    "def": "A structure constructed for the military defence of a site. ( For example, a bastion and a rampart. )",
+    "geom": "Area,Point",
+    "src": "MGCP"
+  },
+  "AJ010": {
+    "desc": "Circular Irrigation System",
+    "def": "An elevated irrigation system revolving around a central pivot point.",
+    "geom": "Area",
+    "src": "MGCP"
+  },
+  "AK190": {
+    "desc": "Recreational Pier",
+    "def": "A structure extending into the water used as a platform for recreational purposes, not intended as a berthing place for vessels. ( For example, a fishing pier or a promenade pier. )",
+    "geom": "Area,Line",
+    "src": "MGCP"
+  },
+  "AL015": {
+    "desc": "General Building",
+    "def": "A relatively permanent structure, roofed and usually walled and designed for some particular use.",
+    "geom": "Area,Point",
+    "src": "MGCP"
+  },
+  "AT050": {
+    "desc": "Communication Station",
+    "def": "A facility in which communication signals are processed and/or controlled. ( For example, a telephone switching station, a microwave repeater station, a satellite ground station, cellular telephone equipment, and a land-line telephone repeater station. )",
+    "geom": "Area",
+    "src": "MGCP"
+  },
+  "BA050": {
+    "desc": "Beach",
+    "def": "On a shore, the area on which the waves break and over which shore debris (for example: sand, shingle, and/or pebbles) accumulate.   [Description] A beach includes backshore and foreshore.",
+    "geom": "Area,Point",
+    "src": "MGCP,GGDM30"
+  },
+  "BB041": {
+    "desc": "Breakwater",
+    "def": "A structure that protects a waterbody region (for example: a shore, a harbour, and/or an anchorage) from water waves by preventing them from reaching the protected region or reducing their magnitude.",
+    "geom": "Area,Line",
+    "src": "MGCP"
+  },
+  "BB043": {
+    "desc": "Groin",
+    "def": "A low artificial wall-like structure of durable material extending from the land to seaward for a particular purpose, such as to prevent coast erosion.",
+    "geom": "Area,Line",
+    "src": "MGCP"
+  },
+  "BB140": {
+    "desc": "Training Wall",
+    "def": "A wall, bank or jetty often submerged, built to direct or confine the flow of a river or tidal current or to promote scour actions.",
+    "geom": "Area,Line",
+    "src": "MGCP"
+  },
+  "BB190": {
+    "desc": "Berthing Structure",
+    "def": "A structure primarily used as a berthing place for vessels. ( For example, a pier, a wharf, and a quay. Consideration should be given to using the more general Feature: 'Shoreline Construction' and a type-discriminating attribute. )",
+    "geom": "Area,Line",
+    "src": "MGCP"
+  },
+  "BB240": {
+    "desc": "Slipway",
+    "def": "The prepared and usually reinforced inclined surface on which keel- and bilge-blocks are laid for supporting a vessel under construction. ( Rails associated with a slipway are usually represented separately, for example as a marine railway. )",
+    "geom": "Area",
+    "src": "MGCP"
+  },
+  "BD120": {
+    "desc": "Reef",
+    "def": "A mass of rock or coral which either reaches close to the sea surface or is exposed at low tide, posing a hazard to navigation.",
+    "geom": "Area,Line",
+    "src": "MGCP,GGDM30"
+  },
+  "BH050": {
+    "desc": "Mariculture Site",
+    "def": "A site where marine organisms are cultivated for food and other products in either the open ocean, in an enclosed section of the ocean, or in tanks, ponds or raceways that are filled with seawater (for example: the farming of marine fish, prawns, or oysters in saltwater ponds).",
+    "geom": "Area",
+    "src": "MGCP,GGDM30"
+  },
+  "BH080": {
+    "desc": "Lake",
+    "def": "A large body of water entirely surrounded by land.",
+    "geom": "Area",
+    "src": "MGCP"
+  },
+  "BH130": {
+    "desc": "Reservoir",
+    "def": "A substantial lake-like body of water impounded by a dam. ( May be used for flood control and/or as a source of water for irrigation, industrial processes, and/or human consumption. )",
+    "geom": "Area",
+    "src": "MGCP"
+  },
+  "DB200": {
+    "desc": "Gully",
+    "def": "A deep ditch or channel cut into the terrain that results from erosion due to surface water runoff.",
+    "geom": "Area,Line",
+    "src": "MGCP"
+  },
+  "EC030": {
+    "desc": "Wood",
+    "def": "A tract of trees whose canopy is not closed (allows sunlight to reach the ground) and often includes undergrowth.",
+    "geom": "Area,Line,Point",
+    "src": "MGCP"
+  },
+  "ED030": {
+    "desc": "Mangrove Swamp",
+    "def": "A dense thicket of mangrove that is subject to tidal inundation and forming a muddy swamp.",
+    "geom": "Area",
+    "src": "MGCP"
+  },
+  "AL210": {
+    "desc": "Protection Shed",
+    "def": "A shelter built to protect a section of road or railway from slides of snow and/or rock. ( For example, a snow shed or a rock shed. )",
+    "geom": "Line,Point",
+    "src": "MGCP"
+  },
+  "AT030": {
+    "desc": "Power Line",
+    "def": "A cable that transmits or distributes electrical power. ( Long distance power transmission lines are typically operated at high voltages (for example, 500 kilovolts) whereas local power distribution lines are typically operated at much lower voltages (usually less than one kilovolt). )",
+    "geom": "Line",
+    "src": "MGCP"
+  },
+  "AT060": {
+    "desc": "Communication Line",
+    "def": "A cable that transmits communication signals. ( For example, a telephone line, a telegraph line, or a fibreoptic cable. )",
+    "geom": "Line",
+    "src": "MGCP"
+  },
+  "BB230": {
+    "desc": "Seawall",
+    "def": "An embankment or wall for protection against waves or tidal action along a shore or water front.",
+    "geom": "Line",
+    "src": "MGCP"
+  },
+  "BH060": {
+    "desc": "Flume",
+    "def": "An inclined channel for conveying water from a distance. ( For example, carries water to be utilized for power, transportation, and/or irrigation. )",
+    "geom": "Line",
+    "src": "MGCP"
+  },
+  "BI041": {
+    "desc": "Water Gate",
+    "def": "A barrier that may be swung, drawn, or lowered to block an entrance or passageway on a watercourse.",
+    "geom": "Line,Point",
+    "src": "MGCP"
+  },
+  "FA090": {
+    "desc": "Geophysical Prospecting Grid",
+    "def": "A grid established for the collection of geophysical data within an area. ( The grid is typically composed of one or more series of observation points where each series is obtained along a single track and the grid is then assembled from multiple tracks. )",
+    "geom": "Line",
+    "src": "MGCP"
+  },
+  "AA050": {
+    "desc": "Well",
+    "def": "An excavation drilled or dug into the ground (for example: the sea bed) for the extraction of liquids and/or gases.",
+    "geom": "Point",
+    "src": "MGCP"
+  },
+  "AQ090": {
+    "desc": "Entrance and/or Exit",
+    "def": "A location of entrance and/or exit. ( For example, a cave mouth or a doorway. )",
+    "geom": "Point",
+    "src": "MGCP"
+  },
+  "BB155": {
+    "desc": "Maritime Signal Station",
+    "def": "A place on shore from which signals are made to vessels at sea.",
+    "geom": "Point",
+    "src": "MGCP,GGDM30"
+  },
+  "BD110": {
+    "desc": "Offshore Platform",
+    "def": "An offshore structure with a flat surface raised above the sea, used as a working stage for conducting offshore operations. ( May be fixed or floating. )",
+    "geom": "Point",
+    "src": "MGCP"
+  },
+  "BD130": {
+    "desc": "Hazardous Rock",
+    "def": "An isolated rocky formation or a single large stone or coral, usually one constituting a danger to navigation.   [Description] May be either dry, awash, or below the water surface.",
+    "geom": "Point",
+    "src": "MGCP,GGDM30"
+  },
+  "BD180": {
+    "desc": "Wreck",
+    "def": "The ruined remains of a stranded or sunken vessel that has been rendered useless.",
+    "geom": "Point,Area",
+    "src": "MGCP,GGDM30"
+  },
+  "GA034": {
+    "desc": "Aeronautical Radio Navigation Service",
+    "def": "A service providing aeronautical navigation guidance information or position data, intended for the benefit and safe operation of aircraft.",
+    "geom": "Point",
+    "src": "MGCP"
+  },
+  "GB220": {
+    "desc": "Aeronautical Obstacle",
+    "def": "Any object, or part thereof, or terrain which rises far enough above the surrounding surface or above a specified height to create a hazard to aircraft operations. ( Obstacle objects may be fixed (whether temporary or permanent) or mobile. )",
+    "geom": "Point",
+    "src": "MGCP"
+  },
+  "GB485": {
+    "desc": "Approach Lighting System",
+    "def": "An airport lighting facility which provides visual guidance to landing aircraft by radiating light beams in a directional pattern by which the pilot aligns the aircraft with the final approach path for landing.",
+    "geom": "Point",
+    "src": "MGCP"
+  },
+  "FA000": {
+    "desc": "Administrative Boundary",
+    "def": "A boundary between administratively controlled regions.",
+    "geom": "Line",
+    "src": "GGDM30"
+  },
+  "FA003": {
+    "desc": "Administrative Subdivision",
+    "def": "An administratively subordinate division of a geopolitical entity.   [Description] A geopolitical entity (country) is typically divided into first-, second-, and lower-order administrative divisions. First-order administrative divisions are immediately subordinate to the government of the geopolitical entity, with second- and lower-order divisions subordinate to those above them. Examples: (first-order) a United States state, a German Land, a French region; a Canadian province; (second-order) a U.S. county, a French department; (third-order) a U.S. township, a French arrondissement; (lower-levels) a French commune.",
+    "geom": "Area",
+    "src": "GGDM30"
+  },
+  "GB013": {
+    "desc": "Aerodrome Beacon",
+    "def": "A fixed beacon used to indicate the location of an aerodrome from the air.",
+    "geom": "Point",
+    "src": "GGDM30"
+  },
+  "GA033": {
+    "desc": "Aero Radio Nav Installation",
+    "def": "A ground-based piece of electronic equipment, with its supporting structure, that provides aeronautical navigation guidance information or position data.",
+    "geom": "Point",
+    "src": "GGDM30"
+  },
+  "BB010": {
+    "desc": "Anchorage",
+    "def": "An area of relatively uniform water depth with no cables, pipelines, or hazardous obstructions present on the seafloor, in which vessels anchor or may anchor.   [Description] Anchorage areas are additionally determined by: the depth of water in comparison to the tidal range; the material of the seafloor bottom; local environmental effects of wind and currents; and proximity to hazards to navigation, adjacent ships, and harbour traffic lanes. Although the anchorage refers to an identified area along the water surface, its physical structure is considered to be the material and condition of the seafloor below. An anchorage can be physically damaged by natural events (for example: an earthquake or tsunami) by which the preferred seafloor bottom type can change, or hazardous obstructions can be created or moved into the anchorage area.",
+    "geom": "Point,Area",
+    "src": "GGDM30"
+  },
+  "BB019": {
+    "desc": "Anchor",
+    "def": "A heavy object, kept in place on the seafloor by its weight and possibly with flukes, to which is attached a cable, rope, or chain that keeps a floating structure (for example, a buoy) on the waterbody surface positioned within a narrow region.",
+    "geom": "Point",
+    "src": "GGDM30"
+  },
+  "AL121": {
+    "desc": "Anti Aircraft Artillery Site",
+    "def": "A site and related facilities (for example: buildings and/or radar equipment) for storing and launching anti-aircraft artillery.   [Description] Walls, if any, that surround the site are typically used as the basis for delineation.",
+    "geom": "Point,Area",
+    "src": "GGDM30"
+  },
+  "BD061": {
+    "desc": "Aquatic Vegetation",
+    "def": "A region of waterborne cellular or vascular plants (for example: algae, grasses, reeds, and water hyacinths).   [Description] The vegetation may moored (for example: sea grass and reeds) or floating (for example: sargasso and water hyacinths).",
+    "geom": "Point,Area",
+    "src": "GGDM30"
+  },
+  "NM010": {
+    "desc": "Aqueduct Aon",
+    "def": "Area of numerous pipes or artificial channels designed to transport water from a remote source(s), usually by gravity, for freshwater supply, agricultural, and/or industrial use.",
+    "geom": "Area",
+    "src": "GGDM30"
+  },
+  "BB150": {
+    "desc": "Beach Landing Site",
+    "def": "A location on a beach suitable for the landing of troops and vehicles.",
+    "geom": "Point,Area",
+    "src": "GGDM30"
+  },
+  "BE050": {
+    "desc": "Beach Profile",
+    "def": "A representation of the three dimensional relief of the beach along a line or series of connected lines.",
+    "geom": "Line",
+    "src": "GGDM30"
+  },
+  "ZB020": {
+    "desc": "Benchmark",
+    "def": "A reference mark on a permanent object indicating elevation relative to an established datum.",
+    "geom": "Point",
+    "src": "GGDM30"
+  },
+  "BB020": {
+    "desc": "Berth",
+    "def": "A named or numbered place where a vessel is moored at a wharf.",
+    "geom": "Point",
+    "src": "GGDM30"
+  },
+  "BF010": {
+    "desc": "Bottom Character Region",
+    "def": "A region of a waterbody bottom that is homogeneous with respect to a measurement (for example: consistency, colour, and/or composition).",
+    "geom": "Point,Area",
+    "src": "GGDM30"
+  },
+  "BC020": {
+    "desc": "Buoy",
+    "def": "A floating object moored to the bottom in a particular place, as an aid to navigation or for other specific purposes.",
+    "geom": "Point",
+    "src": "GGDM30"
+  },
+  "BB050": {
+    "desc": "Calling In Point",
+    "def": "The location at which vessels are required to report to a traffic control centre   [Description] Note that this is not the same as an aeronautical waypoint, which is for aircraft only.",
+    "geom": "Point",
+    "src": "GGDM30"
+  },
+  "NU010": {
+    "desc": "Cistern Aon",
+    "def": "Area of numerous man-made containers used for the collection and/or storage of water.",
+    "geom": "Area",
+    "src": "GGDM30"
+  },
+  "DB185": {
+    "desc": "Crater",
+    "def": "A bowl-shaped depression in the terrain, usually round and with steep sides.   [Description] Craters commonly are created by the removal of material by explosions, either natural (for example: the eruption of a volcano) or artificial (for example: a bomb), originating at or below the Earths surface, or by the impact of an object with the Earth (for example: a meteorite).",
+    "geom": "Point,Area",
+    "src": "GGDM30"
+  },
+  "BD020": {
+    "desc": "Crib",
+    "def": "A permanent structure set in the water, typically framed with wooden beams and filled with rocks or boulders that is used to anchor log booms or support other constructions (for example: submerged outfalls, diffusers, or piers).   [Description] They may always be dry, submerged, or covered and uncovered. Cribs should not be confused with water intake towers which may sometimes also be termed a crib.",
+    "geom": "Point,Area",
+    "src": "GGDM30"
+  },
+  "BE019": {
+    "desc": "Depth Area",
+    "def": "A water area whose depth is within a defined range of values.",
+    "geom": "Area",
+    "src": "GGDM30"
+  },
+  "BE015": {
+    "desc": "Depth Contour",
+    "def": "A line connecting points of equal depth at and below the hydrographic datum.   [Description] Depth contours follow the rules for contour formation, that is, contours must close on themselves, must be continuous, and must precisely represent the shape of the bottom. Depth contours are usually based on detailed bathymetric information.",
+    "geom": "Line",
+    "src": "GGDM30"
+  },
+  "BE010": {
+    "desc": "Depth Curve",
+    "def": "A navigational safety line indicating that no sounding of a lesser depth exists seaward of the line, but greater depths may occur on the shallow side of the line.   [Description] Depth curves should not be confused with a depth contour. Depth curves are generalised, are biased towards safety of navigation, and do not fully follow the rules for contour formation, that is, contours must close on themselves, must be continuous, and must precisely represent the shape of the bottom.",
+    "geom": "Line",
+    "src": "GGDM30"
+  },
+  "BD030": {
+    "desc": "Discoloured Water",
+    "def": "A region of water having a colour distinctly different from that of the surrounding region.",
+    "geom": "Point,Area",
+    "src": "GGDM30"
+  },
+  "ZB036": {
+    "desc": "Distance Mark",
+    "def": "A marker that indicates the value of distance measured from a starting location.   [Description] Consists of either a solid visible structure or a distinct location without a special installation.",
+    "geom": "Point",
+    "src": "GGDM30"
+  },
+  "NM030": {
+    "desc": "Ditch Aon",
+    "def": "Area of numerous artificial waterways with no flow, or a controlled flow, usually unlined, used for draining or irrigating land.",
+    "geom": "Area",
+    "src": "GGDM30"
+  },
+  "BB080": {
+    "desc": "Dolphin",
+    "def": "A post or group of posts used for mooring, warping a ship or as an aid to navigation.",
+    "geom": "Point",
+    "src": "GGDM30"
+  },
+  "NA170": {
+    "desc": "Drainage Basin",
+    "def": "An area of land within which all surface waters drain to a single outlet point located on an inland waterbody or watercourse.",
+    "geom": "Area",
+    "src": "GGDM30"
+  },
+  "FC034": {
+    "desc": "Dredged Area",
+    "def": "An area of the bottom of a body of water (for example: a channel) which has been deepened by dredging.",
+    "geom": "Area",
+    "src": "GGDM30"
+  },
+  "BB100": {
+    "desc": "Fishing Stakes",
+    "def": "Poles or stakes placed in shallow water to outline fishing grounds or to catch fish.",
+    "geom": "Line",
+    "src": "GGDM30"
+  },
+  "BA023": {
+    "desc": "Foreshore",
+    "def": "The part of the shore or beach which lies between the low water mark and the upper limit of normal wave action.",
+    "geom": "Area",
+    "src": "GGDM30"
+  },
+  "BD050": {
+    "desc": "Foul Ground",
+    "def": "A region over which it is safe to navigate but which should be avoided for anchoring, intentional grounding, or ground fishing.",
+    "geom": "Point,Area",
+    "src": "GGDM30"
+  },
+  "ZB060": {
+    "desc": "Geodetic Point",
+    "def": "A physical point on the Earths surface having a known position (for example: as determined by survey) and established as part of a geodetic network.   [Description] For example, a triangulation (trig) point.",
+    "geom": "Point",
+    "src": "GGDM30"
+  },
+  "FA002": {
+    "desc": "Geopolitical Entity",
+    "def": "A region controlled by a political community having an organized government and possessing internal and external sovereignty, most often as a State but sometimes having a dependent relationship on another political authority or a special sovereignty status.   [Description] The degree of sovereignty may be limited in specific areas (for example: matters of economic, administrative, legislative, judicial, military and/or foreign policy). The region controlled by a sovereign geopolitical entity is commonly referred to as a country.",
+    "geom": "Area",
+    "src": "GGDM30"
+  },
+  "EC050": {
+    "desc": "Grove",
+    "def": "A small wood or similar collection of trees growing closely together.   [Description] May occur naturally or be deliberately planted for shade, ornamentation, and/or as an orchard (for example: of olives or citrus fruit).",
+    "geom": "Point,Area",
+    "src": "GGDM30"
+  },
+  "BB008": {
+    "desc": "Harbour Waters",
+    "def": "A natural or artificial improved body of water providing protection for vessels and usually associated with a port.",
+    "geom": "Area",
+    "src": "GGDM30"
+  },
+  "NM082": {
+    "desc": "Inland Waterbody Aon",
+    "def": "Area of numerous bodies of water that are entirely surrounded by land.",
+    "geom": "Area",
+    "src": "GGDM30"
+  },
+  "BC080": {
+    "desc": "Insubstantial Nav Mark",
+    "def": "A small, insubstantial navigational mark.   [Description] For example, a staff placed on top of a rock or shoal to mark a hazard or serve as a navigational aid.",
+    "geom": "Point",
+    "src": "GGDM30"
+  },
+  "BH190": {
+    "desc": "Lagoon",
+    "def": "An enclosed area of salt or brackish water separated from the open sea by some more or less effective, but not complete, obstacle (for example: a sand bank).   [Description] The name most commonly used for the area of water enclosed by a barrier reef or atoll.",
+    "geom": "Area",
+    "src": "GGDM30"
+  },
+  "STB23": {
+    "desc": "Landing Zone",
+    "def": "An identified area for aircraft landing or the pick-up or drop-off of troops, equipment or supplies. [Description] This is usually an established site, and it is not to be used for features typically classified as runways, helipads, heliports or aerodromes. Varied types of aircraft may use this landing zone.",
+    "geom": "Point,Area",
+    "src": "GGDM30"
+  },
+  "BC060": {
+    "desc": "Light Sector",
+    "def": "A sector defined by bearings from seaward within which a light shows a specified character or colour, or is obscured.",
+    "geom": "Point",
+    "src": "GGDM30"
+  },
+  "ZC040": {
+    "desc": "Local Magnetic Anomaly",
+    "def": "A localized anomaly in the Earths magnetic field.",
+    "geom": "Area",
+    "src": "GGDM30"
+  },
+  "FC037": {
+    "desc": "Maritime Caution Area",
+    "def": "Generally, an area where the mariner has to be made aware of circumstances influencing the safety of navigation.   [Description] The caution may represent a specific danger, a general risk, or a rule and/or navigation advice that is not directly related to a specific object. Appropriate consideration should be given, for example, to the specific identification of wrecks, hazardous rocks and wells.",
+    "geom": "Area",
+    "src": "GGDM30"
+  },
+  "FC021": {
+    "desc": "Maritime Limit",
+    "def": "A line where on either side certain activities or factors of significance to navigation and/or operation apply.",
+    "geom": "Line",
+    "src": "GGDM30"
+  },
+  "BC010": {
+    "desc": "Maritime Navigation Beacon",
+    "def": "A prominent, specially constructed object forming a conspicuous mark as a fixed aid to navigation or for use in hydrographic survey.",
+    "geom": "Point",
+    "src": "GGDM30"
+  },
+  "BC040": {
+    "desc": "Maritime Navigation Light",
+    "def": "A fixed luminous or lighted device intended for the purpose of aiding maritime navigation.",
+    "geom": "Point",
+    "src": "GGDM30"
+  },
+  "BC055": {
+    "desc": "Maritime Navigation Marker",
+    "def": "A coloured (usually white) mark on a vertical surface (for example: a cliff, a rocky outcrop, and/or a wall) that is a conspicuous landmark for maritime navigation.",
+    "geom": "Point",
+    "src": "GGDM30"
+  },
+  "BC041": {
+    "desc": "Maritime Nav Light Support",
+    "def": "An otherwise unspecified fixed structure which supports a Maritime Navigation Light.   [Description] May also be used to support other aids to maritime navigation (for example: maritime radiobeacons or fog signals).",
+    "geom": "Point",
+    "src": "GGDM30"
+  },
+  "FC130": {
+    "desc": "Maritime Radar Ref Line",
+    "def": "A track along which ships may be guided by coastal radar stations, especially in the event of reduced visibility.",
+    "geom": "Line",
+    "src": "GGDM30"
+  },
+  "BC034": {
+    "desc": "Maritime Radiobeacon",
+    "def": "An electronic aid to maritime navigation consisting of a radio transmitter that broadcasts distinctive signals from its fixed location.",
+    "geom": "Point",
+    "src": "GGDM30"
+  },
+  "FC165": {
+    "desc": "Maritime Route",
+    "def": "A track or lane established for the safe passage of vessels.",
+    "geom": "Line,Area",
+    "src": "GGDM30"
+  },
+  "FC100": {
+    "desc": "Measured Distance Line",
+    "def": "A maritime course, the length of which has been accurately measured, whose endpoints are often established by leading lines.   [Description] It is used by vessels to calibrate logs, engine revolution counters, and other onboard equipment, and to determine speed.",
+    "geom": "Line",
+    "src": "GGDM30"
+  },
+  "STBM1": {
+    "desc": "Military Boundary",
+    "def": "A line that delineates surface areas for the purpose of facilitating coordination and deconfliction of operations between adjacent units, formations, or areas.",
+    "geom": "Line",
+    "src": "GGDM30"
+  },
+  "NM170": {
+    "desc": "Natural Pool Aon",
+    "def": "Area of numerous naturally formed pools of water.",
+    "geom": "Area",
+    "src": "GGDM30"
+  },
+  "BB115": {
+    "desc": "Nautical Gridiron",
+    "def": "A structure that is located in the intertidal zone and which serves as a support for vessels at low stages of the tide to permit work on the exposed portion of the hull of a grounded vessel.   [Description] A nautical gridiron (or tidal grid) typically consists of vertical supports alongside a rectangular frame or a set of parallel beams on which the vessel rests at low tide. The grid components are often timbers but may be made of other materials.",
+    "geom": "Area",
+    "src": "GGDM30"
+  },
+  "NM020": {
+    "desc": "Navigable Canal Aon",
+    "def": "Area of numerous artificial waterways with no flow, or a controlled flow, usable or built for navigation.",
+    "geom": "Area",
+    "src": "GGDM30"
+  },
+  "AL024": {
+    "desc": "Neighbourhood",
+    "def": "A populated place whose name and boundaries are determined by the residence and/or activities of a culturally defined population.   [Description] A neighbourhood is an area where residents relate to each other based on common aspects in ethnicity, cultural behavior, and/or social environment. There is usually an identifiable subculture of commonality to which the majority of the residents conform. A neighbourhood may de distinguished by a localized street pattern. Its geographic limits are characterized by the location of the inhabitants and based almost entirely on where they live and/or work. Neighbourhoods are usually a constituent part of a larger populated place or built-up area.",
+    "geom": "Area",
+    "src": "GGDM30"
+  },
+  "BJ070": {
+    "desc": "Pack Ice",
+    "def": "Term used in a wide sense to include any area of sea ice other than fast ice.   [Description] Pack ice commonly consists of connected floating plates of ice and has a mosaic look. Fast Ice is defined as sea ice which remains fast, generally in the position where originally formed, and which may attain a considerable thickness. Fast ice is found along coasts, where it is attached to the shore, or over shoals, where it may be held in position by islands, grounded icebergs, or grounded polar ice.",
+    "geom": "Line,Area",
+    "src": "GGDM30"
+  },
+  "NU113": {
+    "desc": "Pipeline Aon",
+    "def": "Area of numerous connected sets of pipes for conveying liquids, slurries, or gases.",
+    "geom": "Area",
+    "src": "GGDM30"
+  },
+  "NU116": {
+    "desc": "Pumping Station Aon",
+    "def": "Area of numerous facilities to move solids, liquids or gases by means of pressure or suction.",
+    "geom": "Area",
+    "src": "GGDM30"
+  },
+  "T0181": {
+    "desc": "Pump",
+    "def": "A device designed to move liquid or semi-liquid content, especially through pipelines or facilities.",
+    "geom": "Point",
+    "src": "GGDM30"
+  },
+  "NM140": {
+    "desc": "River Aon",
+    "def": "Area of numerous naturally flowing watercourses.",
+    "geom": "Area",
+    "src": "GGDM30"
+  },
+  "NM160": {
+    "desc": "Sabkha Aon",
+    "def": "Area of numerous natural depressions in arid or semi-arid regions whose beds are covered with salt encrusted clayey soil.",
+    "geom": "Area",
+    "src": "GGDM30"
+  },
+  "BA024": {
+    "desc": "Shoreline",
+    "def": "A line drawn along the normal limit of wave action above the higher high water line as defined by the National Authority.   [Description] Consideration should be given to using the (more specific) high water line based on the nature of the source data collection.",
+    "geom": "Line",
+    "src": "GGDM30"
+  },
+  "SA050": {
+    "desc": "Slope Region",
+    "def": "A region where the terrain slope is within a set range of values.",
+    "geom": "Area",
+    "src": "GGDM30"
+  },
+  "BE020": {
+    "desc": "Sounding",
+    "def": "A spot depth or drying height that has been referenced to a vertical datum.",
+    "geom": "Point",
+    "src": "GGDM30"
+  },
+  "STDPP": {
+    "desc": "Standpipe",
+    "def": "A rigid vertical water pipe, tank, or tower serving as an access point to a water source. [Description] The standpipe usually provides a uniform pressure from a water supply system.",
+    "geom": "Point",
+    "src": "GGDM30"
+  },
+  "NU070": {
+    "desc": "Storage Tank Aon",
+    "def": "Area of numerous containers used for the storage of liquids and/or gases that are not supported by towers.",
+    "geom": "Area",
+    "src": "GGDM30"
+  },
+  "FC177": {
+    "desc": "Swept Area",
+    "def": "A region that has been determined to be clear of navigational dangers to a specified depth.",
+    "geom": "Area",
+    "src": "GGDM30"
+  },
+  "NU170": {
+    "desc": "Swimming Pool Aon",
+    "def": "Area of numerous man-made pools used for swimming outdoors.",
+    "geom": "Area",
+    "src": "GGDM30"
+  },
+  "BG030": {
+    "desc": "Tidal Stream Observe Station",
+    "def": "The location in a tidally influenced stream where observations are taken.   [Description] Tidal stream observation stations are either embedded in the seafloor or attached to a buoy. They measure the speed and direction of tidally influenced water movement.",
+    "geom": "Point",
+    "src": "GGDM30"
+  },
+  "FC041": {
+    "desc": "Traffic Separation Scheme",
+    "def": "A maritime routeing measure that separates opposing streams of traffic by appropriate means.   [Description] For example, traffic lanes and traffic circles. Often referred to by its acronym, TSS.",
+    "geom": "Line,Point,Area",
+    "src": "GGDM30"
+  },
+  "FC035": {
+    "desc": "Waterbody Divider",
+    "def": "An artificial structure subdividing a waterbody.   [Description] May consist of an artificial earthen embankment subdividing a pond or rice paddy, or an artificial partition (constructed, for example, from concrete or steel) subdividing a fish hatchery tank or water treatment plant aeration tank.",
+    "geom": "Area",
+    "src": "GGDM30"
+  },
+  "BG010": {
+    "desc": "Water Movement Data Location",
+    "def": "A location at which currents, tides, and/or other types of water movement are specified.",
+    "geom": "Point",
+    "src": "GGDM30"
+  },
+  "BG012": {
+    "desc": "Water Turbulence",
+    "def": "A disturbance of water caused by the interaction of any combination of waves, currents, eddies, tidal streams, wind, shoals, and obstructions.",
+    "geom": "Line,Point,Area",
+    "src": "GGDM30"
+  },
+  "NM230": {
+    "desc": "Water Well Aon",
+    "def": "Area of numerous shafts sunk into the ground to reach and tap supply(s) of water intended for uses other than power generation, heating or the extraction of minerals.",
+    "geom": "Area",
+    "src": "GGDM30"
+  }
+}
