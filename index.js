@@ -69,7 +69,7 @@ function doSomeTranslation(msg) {
     } else if (fcodeBits.length === 2) {
         fcode = stripPunctuation(fcodeBits[1]).toUpperCase();
     } else {
-        bot.postMessageToChannel('hootenanny', 'In the near future, I can do lookups on feature codes...');
+        bot.postMessageToChannel('hootenanny', 'I can do lookups on feature codes...');
         bot.postMessageToChannel('hootenanny', 'Responding to messages such as `What\'s the fcode for road?`');
         bot.postMessageToChannel('hootenanny', 'Or `What\'s the feature for fcode AL375?`');
     }
